@@ -41,11 +41,24 @@ class Cldr extends Importer
      */
     public function getCountries($language)
     {
-        $countries = \Zend_Locale::getTranslationList('territory', $language, 2);
+		$countries = \Zend_Locale::getTranslationList('territory', $language, 2);
         if (is_array($countries)) {
             asort($countries);
         }
 
         return $countries;
+    }
+	
+    /**
+     * {@inheritdoc}
+     */
+    public function getCountryLanguages($language)
+    {
+		$languages = \Zend_Locale::getTranslationList('language', $language, 2);
+        if (is_array($languages)) {
+            asort($languages);
+        }
+
+        return $languages;
     }
 }

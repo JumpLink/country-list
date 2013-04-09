@@ -32,4 +32,12 @@ interface ImporterInterface
      * @return string[]
      */
     public function getCountries($language);
+	
+    /**
+     * Get list of all languages in given language.
+     *
+     * @param  string   $language
+     * @return string[]
+     */
+    public function getCountryLanguages($language);
 }

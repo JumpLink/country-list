@@ -1,0 +1,295 @@
+iso,name
+ab,abcházština
+ach,ačoli
+ada,adangme
+ady,adygčina
+aa,afarčina
+afh,afrihili
+af,afrikánčina
+afa,"afroázijské jazyky"
+ain,ainčina
+ak,akančina
+akk,akkadčina
+sq,albánčina
+ale,aleutčina
+alg,"algonkinské jazyky"
+tut,"altajské jazyky"
+en_US,"americká angličtina"
+am,amharčina
+anp,angika
+en,angličtina
+apa,"apačské jazyky"
+ar,arabčina
+an,aragónčina
+arp,arapaho
+arn,araukánčina
+arw,arawačtina
+hy,arménčina
+as,ásámčina
+ast,astúrčina
+ath,"athabaské jazyky"
+en_AU,"austrálska angličtina"
+aus,"austrálske jazyky"
+map,"austronézske jazyky"
+awa,avadhčina
+av,avarčina
+ae,avestčina
+ay,aymarčina
+az,azerbajdžančina
+ban,balijčina
+bat,"baltské jazyky"
+bal,balúčtina
+bm,bambarčina
+bai,bamileke
+bnt,"bantuské jazyky"
+my,barmčina
+bas,basa
+eu,baskičtina
+ba,baskirčina
+btk,"batacké jazyky"
+bej,bedža
+bem,bemba
+bn,bengálčina
+ber,"berberské jazyky"
+zxx,"bez jazykového obsahu"
+bho,bhódžpurčina
+be,bieloruština
+bh,"bihárske jazyky"
+bik,bikol
+bin,bini
+bi,bislama
+byn,blin
+nb,bokmål
+bs,bosniačtina
+bra,bradžčina
+pt_BR,"brazílska portugalčina"
+br,bretónčina
+en_GB,"britská angličtina"
+bug,bugiština
+bg,bulharčina
+bua,buriatčina
+ceb,cebuánčina
+cu,"cirkevná slovančina"
+chg,čagatajčina
+cmc,"čamaské jazyky"
+ch,čamorčina
+ce,čečenčina
+chy,čejenčina
+chr,čerokí
+cs,čeština
+ny,čewa
+chb,čibča
+zh,čínština
+chn,"činucký žargón"
+chp,čipevajčina
+cho,čoktavčina
+za,čuangčina
+cv,čuvaština
+dak,dakotčina
+da,dánčina
+dar,darginčina
+del,delawarčina
+din,dinka
+dv,divehi
+doi,dógrí
+dgr,dogribčina
+dra,"drávidské jazyky"
+dua,duala
+dyu,ďula
+dz,dzongkä
+efi,efik
+eka,ekadžuk
+elx,elamčina
+myv,erzjančina
+eo,esperanto
+et,estónčina
+ee,eweština
+ewo,ewondo
+fo,faerčina
+fan,fangčina
+fat,fanti
+fj,fidžijčina
+fil,filipínčina
+fi,fínčina
+nl_BE,flámčina
+fon,fončina
+fr,francúzština
+fur,friulčina
+ff,fulbčina
+gaa,ga
+gl,galícijčina
+lg,gandčina
+gay,gayo
+gba,gbaja
+gem,"germánske jazyky"
+got,gótčina
+el,gréčtina
+kl,"grónska eskimáčtina"
+ka,gruzínčina
+gn,guaraní
+gu,gudžarátčina
+ht,haitský
+ha,hauština
+haw,havajčina
+he,hebrejčina
+hz,herero
+hi,hindčina
+ho,"hiri motu"
+nl,holandčina
+hr,chorvátčina
+pt_PT,"iberská portugalčina"
+es_ES,"iberská španielčina"
+ig,igboština
+ine,"indoeurópske jazyky"
+id,indonézština
+ia,interlingua
+ie,interlingue
+ira,"iránske jazyky"
+ga,írčina
+is,islandčina
+ja,japončina
+jv,jávčina
+sai,"jazyk juhoamerických indiánov"
+nai,"jazyk severoamerických indiánov"
+cai,"jazyk stredoamerických indiánov"
+yi,jidiš
+yo,jorubčina
+st,"južná sothčina"
+mh,kajin-majol
+km,"kambodžská khmérčina"
+en_CA,"kanadská angličtina"
+fr_CA,"kanadská francúzština"
+kn,kannadčina
+kr,kanurijčina
+car,karibský
+ks,kašmírčina
+ca,katalánčina
+cau,"kaukazské jazyky"
+kk,kazaština
+qu,kečuánčina
+cel,"keltské jazyky"
+ky,kirgizština
+tlh,klingónčina
+kv,komijčina
+kg,konžština
+ko,kórejčina
+kw,kornčina
+co,korzičtina
+cr,krí
+kj,kuaňama
+ku,kurdčina
+lo,laoština
+la,latinčina
+es_419,"latinskoamerická španielčina"
+ln,lingalčina
+lt,litovčina
+lv,lotyština
+lu,luba-katanga
+lb,luxemburčina
+mk,macedónčina
+hu,maďarčina
+ml,malajálamčina
+ms,malajčina
+mg,malgaština
+mt,maltčina
+gv,mančina
+mi,maorijčina
+mr,maráthčina
+myn,"mayské jazyky"
+mo,moldavčina
+lol,mongo
+mn,mongolčina
+na,nauru
+nv,navajo
+ng,ndonga
+de,nemčina
+ne,nepálčina
+und,"neznámy alebo neplatný jazyk"
+no,nórčina
+nn,"nórsky nynorsk"
+oj,odžibva
+oc,okcitánčina
+om,oromčina
+os,osetčina
+pi,pálí
+pa,pandžábčina
+paa,papuánsky
+ps,paštúnčina
+fa,perzština
+pl,poľština
+pt,portugalčina
+de_AT,"rakúska nemčina"
+rm,rétorománčina
+ro,rumunčina
+rn,rundčina
+ru,ruština
+rw,rwandčina
+sm,samojčina
+sg,sango
+sa,sanskrit
+sc,sardínčina
+se,"severná saamčina"
+nso,"severná sothčina"
+nd,"severné ndbele"
+scn,sicílčina
+sd,sindhčina
+si,sinhalčina
+den,slovančina
+sk,slovenčina
+sla,"slovenský jazyk"
+sl,slovinčina
+so,somálčina
+sr,srbčina
+sh,srbochorvátčina
+egy,staroegyptský
+grc,starogréčtina
+sux,sumerčina
+su,sundčina
+ss,svazijčina
+sw,swahilčina
+syr,sýrčina
+gd,škótčina
+sn,šončina
+es,španielčina
+fr_CH,"švajčiarska francúzština"
+gsw,"švajčiarska nemčina"
+de_CH,"švajčiarska spisovná nemčina"
+sv,švédčina
+tg,tadžičtina
+tl,tagalčina
+ty,tahitčina
+it,taliančina
+ta,tamilčina
+tt,tatárčina
+te,telugčina
+tet,tetum
+th,thajčina
+bo,tibetčina
+ti,tigrejčina
+tpi,"tok pisin"
+to,tonžtina
+zh_Hant,"tradičná čínština"
+ts,tsonga
+tn,tswančina
+tr,turečtina
+tk,turkménčina
+tw,twi
+fiu,"ugrofínske jazyky"
+ug,ujgurčina
+uk,ukrajinčina
+art,"umelý jazyk"
+ur,urdčina
+or,uríjčina
+uz,uzbečtina
+wa,valónčina
+ve,vendčina
+vi,vietnamčina
+vo,volapük
+frs,"východná frízština"
+cy,waleština
+wo,wolof
+xh,xhosa
+fy,"západná frízština"
+zh_Hans,"zjednodušená čínština"
+sgn,"znaková reč"
+zu,zuluština

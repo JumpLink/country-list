@@ -1,0 +1,503 @@
+ab: abchasian
+akk: accadic
+ace: aceh
+ach: acoli
+ady: adygai
+aa: afar
+afh: afrihili
+af: afrikaans
+ain: ainu
+ak: akan
+sq: albanais
+ale: aleutic
+alt: 'altaic dal sid'
+am: amaric
+ada: andangme
+anp: angika
+ar: arab
+an: aragonais
+arc: arameic
+sam: 'arameic samaritan'
+arp: arapaho
+arn: araucanic
+arw: arawak
+hy: armen
+rup: aromunic
+az: aserbeidschanic
+as: assami
+ast: asturian
+cch: atsam
+map: austronesian
+hsb: 'aut sorb'
+av: avaric
+ae: avestic
+awa: awadhi
+ay: aymara
+ban: balinais
+bm: bambara
+bad: banda
+bnt: bantu
+bas: basaa
+eu: basc
+ba: baschkir
+dsb: 'bass sorb'
+nds: 'bass tudestg'
+btk: batak
+bej: bedscha
+bal: belutschi
+bem: bemba
+bn: bengal
+ber: berb
+bho: bhojpuri
+be: bieloruss
+bh: bihari
+bik: bikol
+bin: bini
+my: birman
+bi: bislama
+byn: blin
+bs: bosniac
+bra: braj
+br: breton
+bug: bugi
+bg: bulgar
+bua: buriat
+cad: caddo
+km: cambodschan
+krl: carelian
+car: caribic
+kk: casac
+ca: catalan
+ceb: cebuano
+ch: chamorro
+chr: cherokee
+chy: cheyenne
+chb: chibcha
+zh: chinais
+zh_Hans: 'chinais simplifitgà'
+zh_Hant: 'chinais tradiziunal'
+chp: chipewyan
+cho: choctaw
+chk: chuukais
+cop: coptic
+ko: corean
+kw: cornic
+co: cors
+cr: cree
+mus: creek
+cpf: 'creol u pidgin che sa basan sin il franzos'
+cpp: 'creol u pidgin che sa basan sin il portugais'
+cpe: 'creol u pidgin che sa basan sin l''englais'
+crp: 'creolic u pidgin'
+hr: croat
+ku: curd
+dak: dakota
+da: danais
+dar: dargwa
+day: dayak
+del: delaware
+din: dinka
+dyu: diula
+mis: 'diversas linguas'
+doi: dogri
+dgr: dogrib
+dua: duala
+dz: dzongkha
+he: ebraic
+efi: efik
+egy: 'egipzian vegl'
+eka: ekajuk
+elx: elamitic
+en: englais
+en_US: 'englais american'
+en_AU: 'englais australian'
+en_GB: 'englais britannic'
+en_CA: 'englais canadais'
+enm: 'englais mesaun'
+ang: 'englais vegl'
+myv: erzya
+eo: esperanto
+et: eston
+hit: ettitic
+ee: ewe
+ewo: ewondo
+fan: fang
+fat: fanti
+phn: fenizian
+fo: ferrais
+fj: fidschian
+fil: filippino
+fi: finlandais
+nl_BE: flam
+fon: fon
+fr: franzos
+fr_CA: 'franzos canadais'
+frm: 'franzos mesaun'
+fr_CH: 'franzos svizzer'
+fro: 'franzos vegl'
+fy: fris
+frs: 'fris da l''ost'
+frr: 'fris dal nord'
+fur: friulan
+ff: fulah
+gaa: ga
+gd: 'gaelic scot'
+gl: galician
+lg: ganda
+gay: gayo
+gba: gbaya
+gez: geez
+ka: georgian
+ja: giapunais
+gil: gilbertais
+jrb: giudaic-arab
+jpr: giudaic-persian
+gon: gondi
+gor: gorontalo
+got: gotic
+grb: grebo
+el: grec
+grc: 'grec vegl'
+kl: grönlandais
+gn: guarani
+gu: gujarati
+gwi: gwichʼin
+hai: haida
+ht: haitian
+ha: haussa
+haw: hawaian
+hz: herero
+hil: hiligaynon
+him: himachali
+hi: hindi
+ho: 'hiri motu'
+hmn: hmong
+hup: hupa
+iba: iban
+io: ido
+ig: igbo
+ijo: ijo
+ilo: ilocano
+id: indonais
+inh: ingush
+ia: interlingua
+ie: interlingue
+iu: inuktitut
+ik: inupiak
+ga: irlandais
+mga: 'irlandais mesaun'
+sga: 'irlandais vegl'
+is: islandais
+sah: jakut
+jv: javanais
+yi: jiddic
+kaj: jju
+kbd: kabardic
+kab: kabyle
+kac: kachin
+xal: kalmuk
+kam: kamba
+kn: kannada
+kr: kanuri
+krc: karachay-balkar
+kaa: karakalpak
+kar: karen
+csb: kaschubic
+ks: kashmiri
+kaw: kawi
+kha: khasi
+kho: khotanais
+ki: kikuyu
+kmb: kimbundu
+cy: kimric
+rw: kinyarwanda
+ky: kirghis
+tlh: klingonic
+kv: komi
+kg: kongo
+kok: konkani
+kfo: koro
+kos: kosraean
+kpe: kpelle
+kro: kru
+kj: kuanyama
+kum: kumuk
+kru: kurukh
+kut: kutenai
+lad: ladino
+lah: lahnda
+lam: lamba
+lo: laot
+la: latin
+lv: letton
+lez: lezghian
+li: limburgais
+ln: lingala
+myn: 'lingau maya'
+afa: 'lingua afro-asiatica'
+art: 'lingua artifiziala'
+bat: 'lingua baltica'
+bai: 'lingua bamileka'
+ira: 'lingua da l''Iran'
+sgn: 'lingua da segns'
+dra: 'lingua dravidica'
+phi: 'lingua filippina'
+gem: 'lingua germana'
+inc: 'lingua indiana'
+nai: 'lingua indiana da l''America dal Nord'
+sai: 'lingua indiana da l''America dal Sid'
+ine: 'lingua indoeuropeica'
+khi: 'lingua khoisan'
+mkh: 'lingua mon-khmer'
+mun: 'lingua munda'
+nic: 'lingua niger-cordofanica'
+ssa: 'lingua nilo-sahariana'
+paa: 'lingua papuana'
+roa: 'lingua romana'
+sal: 'lingua salish'
+smi: 'lingua sami'
+sem: 'lingua semitica'
+sla: 'lingua slava'
+tai: 'lingua tai'
+tog: 'lingua tsonga'
+fiu: 'lingua ungrofinnica'
+alg: 'linguas algonchinas'
+tut: 'linguas altaicas'
+apa: 'linguas apachas'
+ath: 'linguas athapascas'
+aus: 'linguas australianas'
+und: 'linguas betg determinadas'
+cel: 'linguas celticas'
+cmc: 'linguas chamicas'
+cus: 'linguas cuschiticas'
+cau: 'linguas dal Caucasus'
+cai: 'linguas dals Indians da l''America centrala'
+iro: 'linguas irochesas'
+nub: 'linguas nubicas'
+oto: 'linguas otomangue'
+sit: 'linguas sino-tibetanas'
+sio: 'linguas sioux'
+tup: 'linguas tupi'
+wak: 'linguas wakash'
+ypk: 'linguas yupik'
+lt: lituan
+jbo: lojban
+lol: lomongo
+loz: lozi
+lu: luba-katanga
+lua: luba-lulua
+lui: luiseno
+lun: lunda
+luo: luo
+lus: lushai
+lb: luxemburgais
+mk: macedon
+mad: madurais
+mag: magahi
+mai: maithili
+mak: makassar
+mg: malagassi
+ms: malaic
+ml: malayalam
+dv: maledivic
+mt: maltais
+mnc: manchu
+mdr: mandar
+man: mandingo
+mni: manipuri
+mno: manobo
+gv: manx
+mi: maori
+mr: marathi
+chm: mari
+mh: marschallais
+mwr: marwari
+mas: masai
+umb: mbundu
+men: mende
+mic: micmac
+min: minangkabau
+mwl: mirandais
+moh: mohawk
+mdf: moksha
+mo: moldav
+mn: mongolic
+mos: mossi
+nqo: 'n''ko'
+zxx: 'nagins cuntegns linguistics'
+nah: nahuatl
+na: nauru
+nv: navajo
+nd: 'ndebele dal nord'
+nr: 'ndebele dal sid'
+ng: ndonga
+nap: neapolitan
+ne: nepalais
+new: newari
+nwc: 'newari classic'
+nia: nias
+niu: niue
+nog: nogai
+non: 'nordic vegl'
+nb: 'norvegais bokmål'
+no: norvegiais
+nn: 'norvegiais nynorsk'
+nym: nyamwezi
+ny: nyanja
+nyn: nyankole
+nyo: nyoro
+nzi: nzima
+oc: occitan
+oj: ojibwa
+nl: ollandais
+dum: 'ollandais mesaun'
+or: oriya
+om: oromo
+osa: osage
+os: ossetic
+pal: pahlavi
+pau: palau
+pi: pali
+pam: pampanga
+pag: pangasinan
+pap: papiamento
+ps: paschto
+chn: 'patuà chinook'
+fa: persian
+peo: 'persian vegl'
+pl: polac
+pon: ponapean
+pt: portugais
+pt_BR: 'portugais brasilian'
+pt_PT: 'portugais iberian'
+pra: prakrit
+pro: 'provenzal vegl'
+pa: punjabi
+qu: quechua
+raj: rajasthani
+rap: rapanui
+rar: rarotonga
+rom: romani
+rm: rumantsch
+ro: rumen
+rn: rundi
+ru: russ
+se: 'sami dal nord'
+sma: 'sami dal sid'
+smn: 'sami inari'
+smj: 'sami lule'
+sms: 'sami skolt'
+sm: samoan
+sad: sandawe
+sg: sango
+sa: sanscrit
+sat: santali
+sc: sard
+sas: sasak
+sco: scot
+sel: selkup
+sr: serb
+sh: serbo-croat
+srr: serer
+shn: shan
+sn: shona
+ii: 'sichuan yi'
+scn: sicilian
+sid: sidamo
+bla: siksika
+zbl: 'simbols da Bliss'
+sd: sindhi
+si: singalais
+syr: siric
+syc: 'siric classic'
+cu: 'slav da baselgia'
+den: slavey
+sk: slovac
+sl: sloven
+sog: sogdian
+so: somali
+son: songhai
+snk: soninke
+wen: sorb
+nso: 'sotho dal nord'
+st: 'sotho dal sid'
+es: spagnol
+es_ES: 'spagnol iberic'
+es_419: 'spagnol latinamerican'
+srn: 'sranan tongo'
+sw: suahili
+suk: sukuma
+sux: sumeric
+su: sundanais
+sus: susu
+sv: svedais
+ss: swazi
+tg: tadjik
+tl: tagalog
+ty: tahitian
+th: tailandais
+it: talian
+tmh: tamasheq
+ta: tamil
+tt: tatar
+te: telugu
+tem: temne
+ter: tereno
+tet: tetum
+bo: tibetan
+tig: tigre
+ti: tigrinya
+tr: tirc
+crh: 'tirc crimean'
+ota: 'tirc ottoman'
+tiv: tiv
+tli: tlingit
+tpi: 'tok pisin'
+tkl: tokelau
+to: tonga
+chg: tschagataic
+cs: tschec
+ce: tschetschen
+cv: tschuvasch
+tsi: tsimshian
+ts: tsonga
+tn: tswana
+de: tudestg
+de_AT: 'tudestg austriac'
+gmh: 'tudestg mesaun'
+gsw: 'tudestg svizzer'
+tum: tumbuka
+tk: turkmen
+tvl: tuvalu
+tyv: tuvinian
+tw: twi
+kcg: tyap
+uk: ucranais
+udm: udmurt
+uga: ugaritic
+ug: uiguric
+hu: ungarais
+ur: urdu
+uz: usbec
+vai: vai
+wa: vallon
+goh: 'vegl tudestg da scrittira'
+ve: venda
+vi: vietnamais
+vo: volapuk
+vot: votic
+wal: walamo
+war: waray
+was: washo
+wo: wolof
+xh: xhosa
+yao: yao
+yap: yapais
+yo: yoruba
+znd: zande
+zap: zapotec
+zza: zaza
+zen: zenaga
+za: zhuang
+zu: zulu
+zun: zuni

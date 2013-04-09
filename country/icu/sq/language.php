@@ -1,0 +1,16 @@
+<?php return array (
+  'en' => 'Anglisht',
+  'ar' => 'Arabisht',
+  'fr' => 'Frengjisht',
+  'de' => 'Gjermanisht',
+  'hi' => 'Hindi',
+  'nl' => 'Holandisht',
+  'it' => 'Italisht',
+  'ja' => 'Japanisht',
+  'zh' => 'Kineze',
+  'pt' => 'Portugeze',
+  'ru' => 'Rusisht',
+  'sh' => 'Serbo-Kroatisht',
+  'es' => 'Spanjisht',
+  'sq' => 'shqip',
+);

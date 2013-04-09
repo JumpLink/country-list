@@ -1,0 +1,14 @@
+<?php return array (
+  'ar' => 'Arabic',
+  'zh' => 'Chinese',
+  'en' => 'English',
+  'fr' => 'French',
+  'de' => 'German',
+  'hi' => 'Hindi',
+  'it' => 'Italian',
+  'ja' => 'Japanese',
+  'pt' => 'Portuguese',
+  'ru' => 'Russian',
+  'sid' => 'Sidaamu Afo',
+  'es' => 'Spanish',
+);

@@ -1,0 +1,528 @@
+iso,name
+ab,abchaziska
+ace,acehnesiska
+ach,acholi
+ada,adangme
+ady,adygeiska
+aa,afar
+ps,afghanska
+afh,afrihili
+af,afrikaans
+afa,"afroasiatiskt språk"
+agq,aghem
+ain,ainu
+ak,akan
+akk,akkadiska
+sq,albanska
+ale,aleutiska
+alg,"algonkinskt språk"
+tut,"altaiskt språk"
+en_US,"amerikansk engelska"
+am,amhariska
+anp,angika
+mis,"annat språk"
+apa,apachespråk
+ar,arabiska
+an,aragonesiska
+arc,arameiska
+arp,arapaho
+arn,araukanska
+arw,arawakiska
+hy,armeniska
+rup,arumänska
+as,assamesiska
+ast,asturiska
+asa,asu
+ath,"athapaskiskt språk"
+cch,atsam
+en_AU,"australisk engelska"
+aus,"australiskt språk"
+map,"austronesiskt språk"
+av,avariska
+ae,avestiska
+awa,awadhi
+ay,aymara
+az,azerbajdzjanska
+nah,aztekiska
+ksf,bafia
+ban,balinesiska
+bat,"baltiskt språk"
+bal,baluchiska
+bm,bambara
+bai,bamilekespråk
+bad,bandaspråk
+bnt,bantuspråk
+bas,basa
+ba,basjkiriska
+eu,baskiska
+btk,batak
+bem,bemba
+bez,bena
+bn,bengali
+ber,berberspråk
+bej,beyja
+bho,bhojpuri
+dz,bhutanesiska
+bh,bihari
+bik,bikol
+bin,bini
+bi,bislama
+byn,blin
+zbl,blissymboler
+brx,bodo
+bs,bosniska
+bra,braj
+pt_BR,"brasiliansk portugisiska"
+br,bretonska
+en_GB,"brittisk engelska"
+bug,buginesiska
+bg,bulgariska
+bua,burjätiska
+my,burmesiska
+cad,caddo
+ceb,cebuano
+cai,"centralamerikanskt indianspråk"
+chg,chagatai
+cmc,chamispråk
+ch,chamorro
+chr,cherokesiska
+chy,cheyenne
+chb,chibcha
+chn,chinook
+chp,chipewyan
+cho,choctaw
+chk,chuukesiska
+cr,cree
+day,dajakiska
+dak,dakota
+da,danska
+dar,darginska
+del,delaware
+din,dinka
+dv,divehi
+doi,dogri
+dgr,dogrib
+dra,"dravidiskt språk"
+dua,duala
+dyu,dyula
+efi,efik
+eka,ekajuk
+elx,elamitiska
+ebu,embu
+smn,enaresamiska
+en,engelska
+cpe,"engelskbaserat kreol- eller pidginspråk"
+myv,erjya
+ypk,eskimåspråk
+eo,esperanto
+et,estniska
+gez,etiopiska
+pt_PT,"europeisk portugisiska"
+es_ES,"europeisk spanska"
+ee,ewe
+ewo,ewondo
+fan,fang
+fat,fanti
+phn,feniciska
+fj,fidjianska
+fil,filippinska
+phi,"filippinskt språk"
+fi,finska
+fiu,"finskugriskt språk"
+nl_BE,flamländska
+fon,fonspråket
+egy,fornegyptiska
+ang,fornengelska
+fro,fornfranska
+grc,forngrekiska
+goh,fornhögtyska
+sga,forniriska
+non,fornnordiska
+peo,fornpersiska
+pro,fornprovensalska
+fr,franska
+cpf,"franskbaserat kreol- eller pidginspråk"
+fur,friulianska
+ff,fulani
+fo,färöiska
+zh_Hans,"förenklad kinesiska"
+gaa,gã
+gl,galiciska
+gay,gayo
+gba,gbaya
+ka,georgiska
+gem,"germanskt språk"
+gil,gilbertiska
+gon,gondi
+gor,gorontalo
+got,gotiska
+grb,grebo
+el,grekiska
+kl,grönländska
+gn,guaraní
+gu,gujarati
+gwi,gwichin
+hai,haida
+ht,haitiska
+ha,haussa
+haw,hawaiiska
+he,hebreiska
+hz,herero
+hit,hettitiska
+hil,hiligaynon
+him,himachali
+hi,hindi
+ho,hirimotu
+hmn,hmongspråk
+hup,hupa
+gd,höglandsskotska
+hsb,högsorbiska
+iba,ibanska
+ig,ibo
+io,ido
+ijo,ijospråket
+ilo,iloko
+inc,"indiskt språk"
+ine,"indoeuropeiskt språk"
+id,indonesiska
+zxx,"inget språkligt innehåll"
+inh,ingusjiska
+ia,interlingua
+ie,interlingue
+iu,inuktitut
+ik,inupiak
+ira,"iranskt språk"
+ga,iriska
+iro,"irokesiskt språk"
+is,isländska
+it,italienska
+sah,jakutiska
+ja,japanska
+yap,japetiska
+jv,javanesiska
+yi,jiddisch
+kaj,jju
+dyo,jola-fonyi
+jrb,"judisk arabiska"
+jpr,"judisk persiska"
+kbd,kabardinska
+kab,kabyliska
+kac,kachin
+xal,kalmuckiska
+kam,kamba
+km,kambodjanska
+en_CA,"kanadensisk engelska"
+fr_CA,"kanadensisk franska"
+kn,kannada
+yue,kantonesiska
+kr,kanuri
+kea,kapverdiska
+krc,karachay-balkar
+kaa,karakalpakiska
+krl,karelska
+kar,karenska
+car,karibiska
+ks,kashmiriska
+csb,kasjubiska
+ca,katalanska
+cau,"kaukasiskt språk"
+kaw,kawi
+kk,kazakiska
+cel,"keltiskt språk"
+kha,khasi
+khi,khoisanspråk
+kho,khotanesiska
+kg,kikongo
+ki,kikuyu
+kmb,kimbundu
+zh,kinesiska
+rw,kinjarwanda
+ky,kirgisiska
+yao,kiyao
+nwc,"klassisk newariska"
+syc,"klassisk syriska"
+tlh,klingonska
+kv,kome
+kok,konkani
+art,"konstgjort språk"
+cop,koptiska
+ko,koreanska
+kw,korniska
+kfo,koro
+co,korsikanska
+kos,kosreanska
+kpe,kpelle
+crp,"kreol- eller pidginspråk"
+crh,krimtatariska
+hr,kroatiska
+kro,kru
+kj,kuanyama
+kum,kumykiska
+ku,kurdiska
+kru,kurukh
+cus,"kusjitiskt språk"
+kut,kutenaj
+nmg,kwasio
+cu,kyrkslaviska
+lad,ladino
+lah,lahnda
+lam,lamba
+lo,laotiska
+la,latin
+es_419,"latinamerikansk spanska"
+lv,lettiska
+lez,lezghien
+li,limburgiska
+ln,lingala
+lt,litauiska
+jbo,lojban
+loz,lozi
+lu,luba-katanga
+lua,luba-lulua
+lg,luganda
+luy,luhya
+lui,luiseño
+smj,lulesamiska
+lun,lunda
+luo,luo
+lus,lushai
+lb,luxemburgiska
+dsb,lågsorbiska
+nds,lågtyska
+mad,maduresiska
+mag,magahi
+mai,maithili
+mak,makasar
+mk,makedonska
+mgh,makhuwa-meetto
+mg,malagassiska
+ms,malajiska
+ml,malayalam
+mt,maltesiska
+mnc,manchuriska
+mdr,mandar
+man,mande
+mni,manipuri
+mno,manobospråk
+gv,manx
+mi,maori
+mr,marathi
+chm,mari
+mh,marshalliska
+mwr,marwari
+mas,massajiska
+myn,mayaspråk
+enm,medelengelska
+frm,medelfranska
+gmh,medelhögtyska
+mga,medeliriska
+dum,medelnederländska
+pal,medelpersiska
+men,mende
+mic,mic-mac
+min,minangkabau
+mwl,mirandesiska
+moh,mohawk
+mdf,moksja
+mo,moldaviska
+mkh,"mon-khmeriskt språk"
+lol,mongo
+mn,mongoliska
+mos,mossi
+mua,mundang
+mun,mundaspråk
+mus,muskogee
+nqo,n-kå
+nap,napolitanska
+na,nauru
+nv,navaho
+ng,ndonga
+nl,nederländska
+ne,nepalesiska
+new,newariska
+nia,nias
+nic,Niger-Kongospråk
+ssa,"nilosahariskt språk"
+niu,niueanska
+nog,nogai
+nai,"nordamerikanskt indianspråk"
+frr,nordfrisiska
+nd,nordndebele
+se,nordsamiska
+nso,nordsotho
+no,norska
+nb,"norskt bokmål"
+nub,"nubiskt språk"
+nus,nuer
+nym,nyamwezi
+ny,nyanja
+nyn,nyankole
+tog,nyasatonganska
+nn,nynorska
+nyo,nyoro
+nzi,nzima
+und,"obestämt språk"
+oc,occitanska
+oj,odjibwa
+or,oriya
+om,oromo
+osa,osage
+os,ossetiska
+oto,otomispråk
+ota,ottomanska
+pau,palau
+pi,pali
+pam,pampanga
+pag,pangasinan
+pap,papiamento
+paa,"papuanskt språk"
+fa,persiska
+pl,polska
+pon,ponape
+pt,portugisiska
+cpp,"portugisiskbaserat kreol- eller pidginspråk"
+pra,prakritspråk
+pa,punjabi
+qu,quechua
+raj,rajasthani
+rap,rapanui
+rar,rarotonganska
+rom,romani
+roa,"romanskt språk"
+rof,rombo
+root,rot
+ro,rumänska
+rn,rundi
+rwk,rwa
+ru,ryska
+rm,rätoromanska
+sal,"salikiskt språk"
+sam,samaritanska
+smi,"samiskt språk"
+sm,samoanska
+sad,sandawe
+sg,sango
+sbp,sangu
+sa,sanskrit
+sat,santali
+sc,sardiska
+sas,sasak
+gsw,schweizertyska
+fr_CH,"schweizisk franska"
+de_CH,"schweizisk högtyska"
+sel,selkup
+sem,"semitiskt språk"
+sr,serbiska
+sh,serbokroatiska
+srr,serer
+shn,shan
+swb,shimaoré
+sn,shona
+scn,sicilianska
+sid,sidamo
+bla,siksika
+sd,sindhi
+si,singalesiska
+sit,"sinotibetanskt språk"
+sio,siouxspråk
+sms,skoltsamiska
+sco,skotska
+den,slavej
+sla,"slaviskt språk"
+sk,slovakiska
+sl,slovenska
+sog,sogdiska
+so,somaliska
+son,songhai
+snk,soninke
+wen,"sorbiskt språk"
+es,spanska
+srn,"sranan tongo"
+suk,sukuma
+sux,sumeriska
+su,sundanesiska
+sus,susu
+sv,svenska
+sw,swahili
+ss,swati
+alt,sydaltaiska
+sai,"sydamerikanskt indianspråk"
+nr,sydndebele
+sma,sydsamiska
+st,sydsotho
+syr,syriska
+ii,"szezuan i"
+tg,tadzjikiska
+tl,tagalog
+ty,tahitiska
+tmh,tamashek
+ta,tamil
+twq,tasawaq
+tt,tatariska
+sgn,teckenspråk
+te,telugiska
+tem,temne
+ter,tereno
+tet,tetum
+th,thailändska
+tai,thaispråk
+bo,tibetanska
+tig,tigré
+ti,tigrinja
+tiv,tivi
+cs,tjeckiska
+ce,tjetjenska
+cv,tjuvasjiska
+tli,tlingit
+tpi,"tok pisin"
+tkl,tokelauiska
+to,tonganska
+zh_Hant,"traditionell kinesiska"
+tsi,tsimshian
+ts,tsonga
+tn,tswana
+tum,tumbuka
+tup,tupíspråk
+tr,turkiska
+tk,turkmeniska
+tvl,tuvaluanska
+tyv,tuviniska
+tw,twi
+kcg,tyap
+de,tyska
+udm,udmurtiska
+uga,ugaritiska
+ug,uiguriska
+uk,ukrainska
+umb,umbundu
+hu,ungerska
+ur,urdu
+uz,uzbekiska
+vai,vaj
+wa,vallonska
+ve,venda
+vi,vietnamesiska
+be,vitryska
+vo,volapük
+vot,votiska
+fy,västfrisiska
+wak,"wakusjiskt språk"
+wal,walamo
+cy,walesiska
+wae,walsertyska
+war,waray
+was,washo
+wo,wolof
+xh,xhosa
+yav,yangben
+yo,yoruba
+znd,zandé
+zap,zapotek
+dje,zarma
+zza,zazaiska
+zen,zenaga
+za,zhuang
+zu,zulu
+zun,zuni
+de_AT,"österrikisk tyska"
+frs,östfrisiska

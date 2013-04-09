@@ -97,11 +97,21 @@ class Build extends Command
                         if (!is_array($countries)) {
                             continue;
                         }
+                        $languages = $importer->getCountryLanguages($language);
+                        if (!is_array($languages)) {
+                            continue;
+                        }
                         foreach ($this->exporterIterator as $exporter) {
                             if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
                                 $file = $exporterDir.'/country.'.$exporter->getFormat();
                                 $this->filesystem->touch($file);
                                 file_put_contents($file, $exporter->export($countries));
+                                if ($verbose) {
+                                    $output->write('<info>[file+]</info> '.$file.PHP_EOL);
+                                }
+                                $file = $exporterDir.'/language.'.$exporter->getFormat();
+                                $this->filesystem->touch($file);
+                                file_put_contents($file, $exporter->export($languages));
                                 if ($verbose) {
                                     $output->write('<info>[file+]</info> '.$file.PHP_EOL);
                                 }

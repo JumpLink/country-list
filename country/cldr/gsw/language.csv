@@ -1,0 +1,507 @@
+iso,name
+ab,Abchasisch
+ace,Aceh
+ach,Acholi
+ada,Adangme
+ady,Adygai
+aa,Afar
+afh,Afrihili
+af,Afrikaans
+afa,"Afro-Asiatischi Schpraach"
+ain,Ainu
+ak,Akan
+akk,Akkadisch
+sq,Albanisch
+ale,Aleutisch
+alg,Algonkin-Schpraach
+nwc,Alt-Newari
+tut,"Altaischi Schpraachä"
+fro,Altfranzösisch
+grc,Altgriechisch
+goh,Althochtüütsch
+sga,Altirisch
+non,Altnordisch
+peo,Altpersisch
+pro,Altprovenzalisch
+syc,Altsyrisch
+egy,Altägyptisch
+ang,Altänglisch
+en_US,"Amerikanischs Änglisch"
+am,Amharisch
+mis,"Anderi Schpraach"
+anp,Angika
+apa,Apache-Schpraach
+ar,Arabisch
+an,Aragonesisch
+arc,Aramääisch
+arp,Arapaho
+arn,Araukanisch
+arw,Arawak
+hy,Armenisch
+rup,Aromunisch
+ast,Aschturianisch
+az,Aserbaidschanisch
+as,Assamesisch
+ath,"Athapaskischi Schpraach"
+cch,Atsam
+aus,"Auschtralischi Schpraach"
+en_AU,"Auschtralischs Änglisch"
+map,"Auschtroneesischi Schpraach"
+ae,Avestisch
+awa,Awadhi
+av,Awarisch
+ay,Aymara
+ban,Balinesisch
+bat,"Baltischi Schpraach"
+bm,Bambara
+bai,Bamileke
+bad,Banda
+bnt,Bantu
+bas,Basaa
+ba,Baschkirisch
+eu,Baskisch
+btk,Batak
+bej,Bedauye
+bal,Belutschisch
+bem,Bemba
+bn,Bengalisch
+bho,Bhodschpuri
+bh,Bihaarisch
+bik,Bikolisch
+bin,Bini
+my,Birmanisch
+bi,Bislama
+bla,Blackfoot-Schpraach
+byn,Blin
+zbl,Bliss-Symbool
+bs,Bosnisch
+bra,Braj-Bhakha
+pt_BR,"Brasilianischs Portugiisisch"
+en_GB,"Britischs Änglisch"
+br,Brötoonisch
+bug,Bugineesisch
+bg,Bulgaarisch
+bua,Burjatisch
+ber,Bärberisch
+cad,Caddo
+ceb,Cebuano
+cmc,"Chamischi Schpraach"
+ch,Chamorro
+chr,Cherokee
+ny,Chewa-Schpraach
+chy,Cheyenne
+cu,Chileslawisch
+zh,Chineesisch
+chn,Chinook
+chp,Chipewyan
+cho,Choctaw
+cr,Cree
+del,Delaware-Schpraach
+dz,Dschongkha
+et,Eestnisch
+efi,Efikisch
+eka,Ekajuk
+elx,Elamisch
+tvl,Elliceanisch
+myv,Erzya
+eo,Eschperanto
+ee,Ewe
+ewo,Ewondo
+fat,Fanti-Schpraach
+fj,Fidschianisch
+fil,Filipino
+fi,Finnisch
+fiu,"Finno-ugrischi Schpraach"
+nl_BE,Fläämisch
+fon,Fon
+fr,Französisch
+cpf,"Französisch-basierts Kreol oder Pidgin"
+fy,Friesisch
+fur,Friulisch
+ff,Ful
+fo,Färöisch
+gaa,Ga
+gl,Galizisch
+lg,Ganda-Schpraach
+gay,Gayo
+gba,Gbaya
+sgn,Gebäärdeschpraach
+gez,Geez
+ka,Georgisch
+gem,"Germanischi Schpraach"
+gil,Gilbertesisch
+gon,Gondi
+got,Gotisch
+grb,Grebo
+el,Griechisch
+kl,Gröönländisch
+gn,Guarani
+gu,Gujarati
+hai,Haida
+ht,Haitisch
+ha,Haussa
+haw,Hawaiianisch
+he,Hebräisch
+hz,Herero
+hit,Hethitisch
+hil,Hiligaynonisch
+him,Himatschalisch
+hi,Hindi
+ho,Hiri-Motu
+hup,Hupa
+iba,Ibanisch
+es_ES,"Ibeerischs Schpanisch"
+pt_PT,"Iberischs Portugiisisch"
+io,Ido
+ig,Igbo
+ga,Iirisch
+is,Iisländisch
+ijo,Ijo
+ilo,Ilokano
+smn,Inari-Samisch
+inc,"Indoarischi Schpraach"
+ine,"Indogermanischi Schpraach"
+id,Indonesisch
+inh,Inguschisch
+ia,Interlingua
+ie,Interlingue
+iu,Inukitut
+ik,Inupiak
+ira,"Iranischi Schpraach"
+iro,"Irokesischi Schpraach"
+it,Italiänisch
+sah,Jakutisch
+ja,Japanisch
+jv,Javanisch
+yi,Jiddisch
+kaj,Jju
+jrb,Jüüdisch-Arabisch
+jpr,Jüüdisch-Persisch
+kbd,Kabardinisch
+kab,Kabylisch
+kac,Kachin-Schpraach
+xal,Kalmückisch
+kam,Kamba
+km,Kambodschanisch
+fr_CA,"Kanadischs Französisch"
+en_CA,"Kanadischs Änglisch"
+kn,Kannada
+kr,Kanuri-Schpraach
+kaa,Karakalpakisch
+krc,Karatschaiisch-Balkarisch
+krl,Karelisch
+kar,Karenisch
+car,Kariibisch
+kk,Kasachisch
+ks,Kaschmirisch
+csb,Kaschubisch
+ca,Katalaanisch
+cau,Kaukaasisch
+kaw,Kawi
+cel,"Keltischi Schpraach"
+kha,Khasisch
+khi,Khoisanisch
+mag,Khotta
+ki,Kikuyu-Schpraach
+kmb,Kimbundu-Schpraach
+ky,Kirgiisisch
+tlh,Klingonisch
+kv,Komi-Schpraach
+kg,Kongolesisch
+kok,Konkani
+cop,Koptisch
+ko,Koreaanisch
+kw,Kornisch
+kfo,Koro
+co,Korsisch
+kos,Kosraeanisch
+kpe,Kpelle-Schpraach
+crp,"Kreol oder Pidgin"
+crh,Krimtatarisch
+hr,Kroazisch
+kro,Kru-Schpraach
+kum,Kumükisch
+ku,Kurdisch
+cus,"Kuschitischi Schpraach"
+gwi,Kutchinisch
+kut,Kutenai-Schpraach
+kj,Kwanyama
+zxx,"Kän schpraachliche Inhalt"
+art,"Künschtlichi Schpraach"
+lad,Ladino
+lah,Lahndanisch
+lam,Lambanisch
+lo,Laozisch
+la,Latiin
+es_419,"Latiinamerikanischs Schpanisch"
+lez,Lesgisch
+lv,Lettisch
+li,Limburgisch
+ln,Lingala
+lt,Litauisch
+jbo,Lojbanisch
+lu,Luba
+lua,Luba-Lulua
+lui,Luiseno-Schpraach
+smj,Lule-Samisch
+lun,Lunda-Schpraach
+luo,Luo-Schpraach
+lus,Lushai-Schpraach
+lb,Luxemburgisch
+mg,Madagassisch
+mad,Maduresisch
+mai,Maithili
+mak,Makassarisch
+ms,Malaiisch
+ml,Malayalam
+dv,Malediivisch
+mt,Maltesisch
+mdr,Mandaresisch
+man,Manding-Schpraach
+mnc,Mandschurisch
+mno,Manobo-Schpraach
+gv,Manx-Gäälisch
+mi,Maori
+mr,Marathi
+mh,Marschallesisch
+mwr,Marwarisch
+mas,Massai-Schpraach
+myn,Maya-Schpraach
+mk,Mazedonisch
+umb,Mbundu-Schpraach
+mul,Mehrschpraachig
+mni,Meithei-Schpraach
+men,Mende-Schpraach
+hmn,Miao
+mic,Micmac-Schpraach
+min,Minangkabau-Schpraach
+mwl,Mirandesisch
+frm,Mittelfranzösisch
+gmh,Mittelhochtüütsch
+mga,Mittelirisch
+dum,Mittelniderländisch
+pal,Mittelpersisch
+enm,Mittelänglisch
+moh,Mohawk-Schpraach
+mdf,Mokschamordwinisch
+mo,Moldawisch
+mkh,Mon-Khmer-Schpraach
+lol,Mongo
+mn,Mongolisch
+gor,Mongondou
+mos,Mossi-Schpraach
+mun,Munda-Schpraach
+mus,Muskogee-Schpraach
+nah,Nahuatl
+na,Nauruisch
+nv,Navajo-Schpraach
+ng,Ndonga
+nap,Neapolitanisch
+ne,Nepalesisch
+tpi,Neumelanesisch
+new,Newarisch
+nia,Nias-Schpraach
+nl,Niderländisch
+dsb,Nidersorbisch
+nds,Nidertüütsch
+nic,"Nigerkordofanischi Schpraach"
+ssa,"Nilosaharanischi Schpraach"
+niu,Niue-Schpraach
+nog,Nogaisch
+nd,Nord-Ndebele-Schpraach
+se,Nord-Samisch
+nso,Nord-Sotho-Schpraach
+nai,"Nordamerikanischi Indianersprach"
+frr,Nordfriesisch
+no,Norwegisch
+nb,"Norwegisch Bokmål"
+nn,"Norwegisch Nynorsk"
+nub,"Nubischi Schpraach"
+nym,Nyamwezi-Schpraach
+nyn,Nyankole
+nyo,Nyoro
+nzi,Nzima
+nqo,N’Ko
+hsb,Obersorbisch
+oj,Ojibwa-Schpraach
+oc,Okzitanisch
+kru,Oraon-Schpraach
+or,Orija
+om,Oromo
+osa,Osage-Schpraach
+rap,Oschterinsel-Schpraach
+frs,Oschtfriesisch
+ota,Osmanisch
+os,Ossezisch
+oto,Otomangue-Schpraach
+pau,Palau
+pi,Pali
+pam,Pampanggan-Schpraach
+pa,Pandschabisch
+pag,Pangasinanisch
+fan,Pangwe-Schpraach
+pap,Papiamento
+paa,Papua-Schpraach
+ps,Paschtu
+fa,Persisch
+phi,"Philippine-Austronesischi Schpraach"
+phn,Phönikisch
+pl,Polnisch
+pon,Ponapeanisch
+cpp,"Portugiesisch-basierts Kreol oder Pidgin"
+pt,Portugiisisch
+pra,Prakrit
+qu,Quechua
+raj,Rajasthani
+rar,Rarotonganisch
+roa,"Romanischi Schpraach"
+root,Root
+loz,Rotse-Schpraach
+rw,Ruandisch
+ro,Rumänisch
+rn,Rundi-Schpraach
+ru,Russisch
+rm,Rätoromanisch
+kho,Sakisch
+sal,Salish-Schpraach
+sam,Samaritanisch
+smi,Samisch
+sm,Samoanisch
+sad,Sandawe-Schpraach
+sg,Sango
+sa,Sanschkrit
+sat,Santali
+sc,Sardisch
+sas,Sasak
+shn,Schan-Schpraach
+sn,Schhona
+sco,Schottisch
+gd,Schottisch-Gäälisch
+es,Schpanisch
+sv,Schwedisch
+fr_CH,"Schwiizer Französisch"
+de_CH,"Schwiizer Hochtüütsch"
+gsw,Schwiizertüütsch
+sel,Selkupisch
+sem,"Semitischi Schpraach"
+sr,Serbisch
+sh,Serbo-Kroatisch
+srr,Serer-Schpraach
+ii,"Sezuanischs Yi"
+sid,Sidamo
+sd,Sindhi
+si,Singhalesisch
+sit,"Sinotibetischi Schpraach"
+sio,Sioux-Schpraach
+scn,Sizilianisch
+sms,Skolt-Samisch
+den,Slavey
+sla,"Slawischi Schpraach"
+sk,Slowakisch
+sl,Slowenisch
+sog,Sogdisch
+so,Somali
+son,Songhai-Schpraach
+snk,Soninke-Schpraach
+wen,Sorbisch
+srn,Srananisch
+sw,Suaheli
+suk,Sukuma-Schpraach
+sux,Sumerisch
+su,Sundanesisch
+sus,Susu
+ss,Swazi
+syr,Syrisch
+alt,Süüd-Altaisch
+nr,Süüd-Ndebele-Schpraach
+sma,Süüd-Samisch
+st,Süüd-Sotho-Schpraach
+sai,"Süüdamerikanischi Indianerschpraach"
+tg,Tadschikisch
+tl,Tagalog
+ty,Tahitisch
+day,Tajakisch
+dak,Takota
+tmh,Tamaseq
+ta,Tamilisch
+dar,Targiinisch
+tt,Tatarisch
+te,Telugu
+tem,Temne
+ter,Tereno-Schpraach
+tet,Tetum-Schpraach
+th,Thailändisch
+tai,Thaischpraache
+bo,Tibeetisch
+tig,Tigre
+ti,Tigrinja
+din,Tinka
+dyu,Tiula
+tiv,Tiv-Schpraach
+tli,Tlingit-Schpraach
+doi,Togri
+dgr,Togrib
+tkl,Tokelauanisch
+to,Tongaisch
+zh_Hant,"Tradizionells Chineesisch"
+dra,"Trawidischi Schpraach"
+chk,Trukesisch
+chg,Tschagataisch
+cs,Tschechisch
+chm,Tscheremissisch
+ce,Tschetscheenisch
+chb,Tschibtscha
+cv,Tschuwaschisch
+tsi,Tsimshian-Schpraach
+ts,Tsonga
+tog,Tsonga-Schpraach
+tn,Tswana-Schpraach
+dua,Tuala
+tum,Tumbuka-Schpraach
+tup,Tupi-Schpraache
+tk,Turkmenisch
+tyv,Tuwinisch
+tw,Twi
+kcg,Tyap
+da,Tänisch
+tr,Türkisch
+de,Tüütsch
+udm,Udmurtisch
+uga,Ugaritisch
+ug,Uigurisch
+uk,Ukrainisch
+und,"Unbeschtimmti Schpraach"
+hu,Ungarisch
+ur,Urdu
+uz,Usbekisch
+vai,Vai-Schpraach
+ve,Venda-Schpraach
+zh_Hans,"Veräifachts Chineesisch"
+vi,Vietnamesisch
+vo,Volapük
+wak,Wakashanisch
+wal,Walamo-Schpraach
+cy,Walisisch
+wa,Wallonisch
+war,Waray
+was,Washo-Schpraach
+be,Wiissrussisch
+wo,Wolof
+vot,Wotisch
+xh,Xhosa
+yao,Yao-Schpraach
+yap,Yapesisch
+yo,Yoruba
+ypk,Yupik-Schpraach
+znd,Zande-Schpraach
+zap,Zapotekisch
+zza,Zaza
+zen,Zenaga
+cai,"Zentralamerikanischi Indianerschpraach"
+za,Zhuang
+rom,Zigüünerschpraach
+zu,Zulu
+zun,Zuni-Schpraach
+en,Änglisch
+cpe,"Änglisch-basierts Kreol oder Pidgin"
+de_AT,"Öschtriichischs Tüütsch"

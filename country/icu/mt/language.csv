@@ -1,0 +1,476 @@
+iso,name
+ab,Abkażjan
+ace,Aċiniż
+ada,Adangme
+ady,Adyghe
+aa,Afar
+afh,Afriħili
+af,Afrikans
+afa,"Afro-Asjatiku (Oħra)"
+ay,Ajmara
+ain,Ajnu
+ak,Akan
+akk,Akkadjen
+ach,Akoli
+sq,Albaniż
+ale,Aleut
+tut,"Altajk (Oħra)"
+cai,"Amerika Ċentrali (Oħra)"
+am,Amħariku
+anp,Angika
+an,Aragonese
+arc,Aramajk
+arp,Arapaħo
+arw,Arawak
+arn,Arawkanjan
+hy,Armenjan
+rup,Aromanijan
+art,"Artifiċjali (Oħra)"
+as,Assamese
+ast,Asturian
+cch,Atsam
+av,Avarik
+ae,Avestan
+awa,Awadħi
+map,Awstronesjan
+az,Ażerbajġani
+ban,Baliniż
+bat,"Baltiku (Oħra)"
+bal,Baluċi
+bm,Bambara
+bad,Banda
+bnt,Bantu
+bas,Basa
+eu,Bask
+btk,Batak
+ba,Baxkir
+ber,Beber
+bej,Beja
+be,Belarussu
+bem,Bemba
+bn,Bengali
+bh,Biħari
+bik,Bikol
+bin,Bini
+bi,Bislama
+byn,Blin
+bho,Bojpuri
+nb,"Bokmahal Norveġiż"
+bs,Bosnijan
+bra,Braj
+br,Brenton
+bug,Buginiż
+bg,Bulgaru
+bua,Burjat
+my,Burmiż
+chg,Ċagataj
+ch,Ċamorro
+ce,Ċeċen
+cs,Ċek
+chr,Ċerokij
+chb,Ċibċa
+ny,"Ċiċewa; Njanġa"
+zh,Ċiniż
+chp,Ċipewjan
+cho,Ċostaw
+chk,Ċukese
+cv,Ċuvax
+nwc,"Classical Newari"
+crh,"Crimean Turkish; Crimean Tatar"
+day,Dajak
+dak,Dakota
+da,Daniż
+dar,Dargwa
+del,Delawerjan
+din,Dinka
+dv,Diveħi
+dyu,Djula
+doi,Dogri
+dgr,Dogrib
+dra,"Dravidjan (Oħra)"
+dua,Dwala
+dz,Dżongka
+he,Ebrajk
+efi,Efik
+egy,"Eġizzjan (Antik)"
+eka,Ekajuk
+elx,Elamit
+myv,Erzya
+eo,Esperanto
+et,Estonjan
+ee,Ewe
+ewo,Ewondo
+fan,Fang
+fat,Fanti
+fo,Fawriż
+phn,Feniċju
+fj,Fiġi
+phi,"Filippin (Oħra)"
+fil,Filippino
+fi,Finlandiż
+fiu,"Finno - Ugrijan"
+fon,Fon
+fr,Franċiż
+fro,"Franċiż, Antik"
+frm,"Franċiż, Medjevali"
+fur,Frijuljan
+fy,Friżjan
+ff,Fulaħ
+ja,Ġappuniż
+chn,"Ġargon taċ-Ċinuk"
+jv,Ġavaniż
+grb,Ġerbo
+gem,"Ġermaniku (Oħra)"
+goh,"Ġermaniku, Antik Pulit"
+gmh,"Ġermaniku, Medjevali Pulit"
+de,Ġermaniż
+nds,"Ġermaniż Komuni; Sassonu Komuni"
+ka,Ġorġjan
+gaa,Ga
+gay,Gajo
+gl,Gallegjan
+gd,"Galliku Skoċċiż"
+lg,Ganda
+gba,Gbaja
+gez,Geez
+gil,Gilbertjan
+gon,Gondi
+gor,Gorontalo
+got,Gotiku
+el,Grieg
+grc,"Grieg, Antik (to 1453)"
+gu,Guġarati
+gn,Gwarani
+gwi,Gwiċin
+ar,Għarbi
+root,Għerq
+ht,Haitian
+hil,Hiligaynon
+hai,Ħajda
+haw,Ħawajjan
+ha,Ħawsa
+hz,Ħerero
+him,Ħimaċali
+hi,Ħindi
+ho,"Ħiri Motu"
+hit,Ħittit
+hmn,Ħmong
+xh,Ħoża
+hup,Ħupa
+iba,Iban
+io,Ido
+ijo,Iġo
+ig,Igbo
+ilo,Iloko
+smn,"Inari Sami"
+und,Indeterminat
+inc,"Indjan (Oħra)"
+sai,"Indjan tal-Amerika t’Isfel (Oħra)"
+nai,"Indjan tal-Amerika ta’ Fuq (Oħra)"
+ine,Indo-Ewropew
+id,Indoneżjan
+en,Ingliż
+ang,"Ingliż, Antik"
+enm,"Ingliż, Medjevali (1100-1500)"
+inh,Ingush
+ia,Interlingua
+ie,Interlingue
+iu,Inukitut
+ik,Inupjak
+ira,Iranjan
+ga,Irlandiż
+sga,"Irlandiż, Antik (sa l-900)"
+mga,"Irlandiż, Medjevali (900-1200)"
+is,Iżlandiż
+sah,Jakut
+yao,Jao
+yap,Japese
+yi,Jiddix
+yo,Joruba
+kbd,Kabardian
+kab,Kabuljan
+kac,Kaċin
+cad,Kaddo
+kl,Kalallisut
+xal,Kalmyk
+kam,Kamba
+kn,Kannada
+kr,Kanuri
+kaa,Kara-Kalpak
+krc,Karachay-Balkar
+kar,Karen
+car,Karib
+csb,Kashubian
+kha,Kasi
+ca,Katalan
+kaw,Kawi
+cau,"Kawkasu (Oħra)"
+ks,Kaxmiri
+kk,Każak
+qu,Keċwa
+cel,"Keltiku (Oħra)"
+ki,Kikuju
+kmb,Kimbundu
+rw,Kinjarwanda
+ky,Kirgiż
+tlh,Klingon
+km,Kmer
+khi,Kojsan
+kv,Komi
+kg,Kongo
+kok,Konkani
+cop,Koptiku
+ko,Korejan
+kw,Korniku
+co,Korsiku
+kos,Kosrejan
+kho,Kotaniż
+kpe,Kpelle
+crp,"Kreoli u Piġini (Oħra)"
+cpf,"Kreoli u Piġini, Bbażat fuq il-Franċiż (Oħra)"
+cpp,"Kreoli u Piġini, Bbażat fuq il-Portugiż (Oħra)"
+cpe,"Kreoli u Piġini, Bbażat fuq l-Ingliż (Oħra)"
+mus,Kriek
+cr,Krij
+hr,Kroat
+kro,Kru
+kj,Kuanyama
+kum,Kumiku
+ku,Kurdiż
+kru,Kurusk
+kut,Kutenaj
+cus,"Kuxtiku (Oħra)"
+lad,Ladino
+lam,Lamba
+lah,Landa
+lo,Lao
+la,Latin
+lv,"Latvjan (Lettix)"
+lb,Letżburgiż
+lez,Leżgjan
+jrb,Lhudi-Għarbi
+jpr,Lhudi-Persjan
+li,Limburgish
+ln,Lingaljan
+sgn,"Lingwa tas-Sinjali"
+alg,"Lingwi Algonqwinjani"
+apa,"Lingwi Apaċi"
+ath,"Lingwi Atabaskani"
+aus,"Lingwi Awstraljani"
+bai,"Lingwi Bamileke"
+cmc,"Lingwi Ċamiki"
+iro,"Lingwi Irogwjani"
+ypk,"Lingwi Jupiċi"
+mno,"Lingwi Manobo"
+nub,"Lingwi Nubjani"
+mis,"Lingwi Oħra"
+oto,"Lingwi Otomjani"
+pra,"Lingwi Prakriti"
+wen,"Lingwi Sorbjani"
+sio,"Lingwi Suwjani"
+mun,"Lingwi tal-Munda"
+wak,"Lingwi Wakaxani"
+lt,Litwanjan
+jbo,Lojban
+dsb,"Lower Sorbian"
+loz,Lożi
+lu,Luba-Katanga
+lua,Luba-Luluwa
+smj,"Lule Sami"
+lun,Lunda
+luo,Luwa
+lui,Luwisinuż
+lus,Luxaj
+mk,Maċedonjan
+mad,Maduriż
+mag,Magaħi
+myn,Majan
+mai,Majtili
+mak,Makasar
+mg,Malagażi
+ml,Malajalam
+ms,Malajan
+mt,Malti
+mnc,Manċurjan
+mdr,Mandar
+man,Mandingwan
+mni,Manipuri
+gv,Manks
+mi,Maori
+mr,Marati
+chm,Mari
+mwr,Marwari
+mh,Marxall
+mas,Masaj
+men,Mende
+mic,Mikmek
+min,Minangkabaw
+mwl,Mirandiż
+moh,Moħak
+mdf,Moksha
+mo,Moldavjan
+mkh,"Mon-Kmer (Oħra)"
+lol,Mongo
+mn,Mongoljan
+mos,Mossi
+nah,Naħwatil
+nv,Navaħo
+na,Nawuru
+nr,"Ndebele, t’Isfel"
+nd,"Ndebele, ta’ Fuq"
+ng,Ndonga
+nap,Neapolitan
+ne,Nepaliż
+new,Newari
+nic,"Niġerjan - Kordofanjan"
+nia,Nijas
+niu,Nijuwejan
+ssa,Nilo-Saħaram
+nn,"Ninorsk Norveġiż"
+nym,Njamweżi
+nyo,Njoro
+nog,Nogai
+no,Norveġiż
+nyn,Nyankole
+nzi,Nżima
+oc,Oċċitan
+oj,Oġibwa
+nl,Olandiż
+dum,"Olandiż, Medjevali"
+or,Orija
+om,"Oromo (Afan)"
+osa,Osaġjan
+os,Ossettiku
+pal,Paħlavi
+pau,Palawjan
+pi,Pali
+pam,Pampamga
+pag,Pangasinjan
+pap,Papjamento
+paa,"Papwan (Oħra)"
+ps,Paxtun
+fa,Persjan
+peo,"Persjan Antik"
+pl,Pollakk
+pon,Ponpejan
+pt,Portugiż
+pro,"Provenzal, Antik (sa l-1500)"
+pa,Punġabi
+raj,Raġastani
+rap,Rapanwi
+rar,Rarotongani
+rm,Reto-Romanz
+roa,"Romanz (Oħra)"
+ro,Rumen
+rn,Rundi
+ru,Russu
+sal,Salixan
+smi,"Sami languages (Other)"
+se,"Sami ta’ Fuq"
+sm,Samojan
+sam,Samritan
+sad,Sandawe
+sg,Sango
+sa,Sanskrit
+sat,Santali
+sc,Sardinjan
+sas,Saska
+sel,Selkup
+sem,Semitiku
+sr,Serb
+sh,Serbo-Kroat
+srr,Serer
+ceb,Sibwano
+ii,"Sichuan Yi"
+sid,Sidamo
+bla,Siksika
+sd,Sindi
+si,Sinħaliż
+sit,"Sino-Tibetjani (Oħra)"
+syr,Sirjan
+non,"Skandinav, Antik"
+sco,Skoċċiż
+sms,"Skolt Sami"
+den,Slav
+sla,"Slavic (Other)"
+cu,"Slaviku tal-Knisja"
+sk,Slovakk
+sl,Sloven
+sog,Sogdien
+so,Somali
+son,Songaj
+snk,Soninke
+st,"Soto, t’Isfel"
+nso,"Soto, ta’ Fuq"
+sma,"Southern Sami"
+es,Spanjol
+suk,Sukuma
+sux,Sumerjan
+su,Sundaniż
+sus,Susu
+sv,Svediż
+sw,Swaħili
+ss,Swati
+tg,Taġik
+tl,Tagalog
+ty,Taħitjan
+tai,"Tai (Oħra)"
+th,Tajlandiż
+it,Taljan
+tmh,Tamaxek
+ta,Tamil
+tt,Tatar
+te,Telugu
+ter,Tereno
+tet,Tetum
+bo,Tibetjan
+tig,Tigre
+ti,Tigrinja
+tem,Timne
+tiv,Tiv
+tli,Tlingit
+tpi,"Tok Pisin"
+tkl,Tokelau
+tog,"Tonga (Njasa)"
+to,"Tongan (Gżejjer ta’ Tonga)"
+tr,Tork
+ota,"Tork (Imperu Ottoman)"
+ts,Tsonga
+tum,Tumbuka
+tup,"Tupi languages"
+tk,Turkmeni
+tvl,Tuvalu
+tyv,Tuvinjan
+tw,Twi
+udm,Udmurt
+uga,Ugaritiku
+uk,Ukranjan
+umb,Umbundu
+hu,Ungeriż
+hsb,"Upper Sorbian"
+ur,Urdu
+uz,Użbek
+vai,Vai
+ve,Venda
+vi,Vjetnamiż
+vo,Volapuk
+vot,Votik
+wal,Walamo
+wa,Walloon
+war,Waraj
+was,Waxo
+cy,Welx
+ug,Wigur
+wo,Wolof
+chy,Xajenn
+shn,Xan
+sn,Xona
+znd,Żande
+zap,Żapotek
+zen,Żenaga
+rom,Żingaru
+zu,Żulu
+zun,Żuni
+za,Żwang
+tsi,Zimxjan
+tn,Zwana

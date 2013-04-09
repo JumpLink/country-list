@@ -1,0 +1,506 @@
+ab: Abazca
+ace: Achinese
+ach: Acoli
+ada: Adangme
+aa: Afar
+afh: Afrihili
+af: 'Afrikaan Dili'
+afa: 'Afro-Asyatik Diller'
+akk: 'Akad Dili'
+ak: Akan
+ale: Aleut
+alg: 'Algonkin Dili'
+de: Almanca
+tut: 'Altay Dilleri'
+en_US: 'Amerikan İngilizcesi'
+am: Amharca
+anp: Angika
+grc: 'Antik Yunanca'
+apa: 'Apaçi Dilleri'
+an: Aragonca
+arc: Aramice
+arp: 'Arapaho Dili'
+ar: Arapça
+arn: 'Araukanya Dili'
+arw: 'Arawak Dili'
+bho: Arayanice
+sq: Arnavutça
+as: Assamca
+ast: Asturyasca
+ath: 'Atabaşkan Dilleri'
+cch: Atsam
+av: 'Avar Dili'
+ae: Avestçe
+aus: 'Avustralya Dilleri'
+en_AU: 'Avustralya İngilizcesi'
+map: 'Avustronezya Dili'
+de_AT: 'Avusturya Almancası'
+awa: Awadhi
+ay: Aymara
+ain: 'Ayni Dili'
+az: Azerice
+nds: 'Aşağı Almanca'
+dsb: 'Aşağı Sorbça'
+ban: 'Bali Dili'
+bat: 'Baltık Dilleri'
+bal: Baluchi
+bm: Bambara
+bai: 'Bamileke Dilleri'
+bad: 'Banda Dili'
+bnt: 'Bantu Dili'
+bas: 'Basa Dili'
+zh_Hans: 'Basitleştirilmiş Çince'
+eu: Baskça
+btk: Batak
+fy: 'Batı Frizcesi'
+ba: Başkırtça
+bej: 'Beja Dili'
+bem: Bemba
+bn: Bengalce
+ber: Berberi
+be: 'Beyaz Rusça'
+bh: Bihari
+bik: Bikol
+und: 'Bilinmeyen veya Geçersiz Dil'
+bin: Bini
+mul: 'Birden Fazla Dil'
+my: 'Birmanya Dili'
+bi: Bislama
+byn: Blin
+zbl: 'Blis Sembolleri'
+bs: Boşnakça
+bra: Braj
+br: Bretonca
+pt_BR: 'Brezilya Portekizcesi'
+bug: Bugis
+bg: Bulgarca
+bua: Buryat
+dz: 'Butan Dili'
+cad: Caddo
+car: Carib
+jv: 'Cava Dili'
+ceb: Cebuano
+gem: 'Cermen Dilleri'
+cmc: 'Chamic Dilleri'
+ch: Chamorro
+chb: Chibcha
+chn: 'Chinook Jargon'
+chp: Chipewyan
+cho: Choctaw
+chk: Chuukese
+cr: Cree
+mus: Creek
+crp: 'Creole ve Pidgin Dilleri'
+dak: Dakota
+da: Danca
+dar: Dargince
+day: Dayak
+del: Delaware
+zxx: 'Dilbilim içeriği yok'
+din: Dinka
+dv: Divehi
+doi: Dogri
+dgr: Dogrib
+frs: 'Doğu Frizcesi'
+dra: 'Dravid Dilleri'
+dua: Duala
+dyu: Dyula
+efi: Efik
+eka: Ekajuk
+elx: Elam
+id: Endonezce
+hy: Ermenice
+myv: Erzya
+peo: 'Eski Farsça'
+fro: 'Eski Fransızca'
+egy: 'Eski Mısır Dili'
+non: 'Eski Norse'
+pro: 'Eski Provensal'
+goh: 'Eski Yüksek Almanca'
+ang: 'Eski İngilizce'
+sga: 'Eski İrlandaca'
+eo: Esperanto
+et: 'Estonya Dili'
+ee: Ewe
+ewo: Ewondo
+fan: Fang
+fat: Fanti
+fo: 'Faroe Dili'
+fa: Farsça
+nl_BE: Felemenkçe
+phn: 'Fenike Dili'
+fj: 'Fiji Dili'
+phi: 'Filipinler Dilleri'
+fil: Filipino
+fi: Fince
+fiu: 'Finno - Ugrik Diller'
+fon: Fon
+fr: Fransızca
+cpf: 'Fransızca tabanlı Creole ve Pidgin Dilleri'
+fur: Friulian
+ff: Fulah
+gaa: Ga
+cy: Galce
+gl: Galiçyaca
+lg: Ganda
+gay: Gayo
+gba: Gbaya
+gez: Geez
+zh_Hant: 'Geleneksel Çince'
+gon: Gondi
+gor: Gorontalo
+got: Gotça
+grb: Grebo
+kl: 'Grönland Dili'
+gn: Guarani
+gu: Gujarati
+gwi: Gwichʼin
+alt: 'Güney Altayca'
+sai: 'Güney Amerika Yerli Dilleri'
+nr: 'Güney Ndebele'
+sma: 'Güney Sami'
+st: 'Güney Sotho'
+ka: Gürcüce
+hai: Haida
+ht: 'Haiti Dili'
+ha: Hausa
+haw: 'Hawaii Dili'
+hz: Herero
+hil: Hiligaynon
+him: Himachali
+inc: 'Hint Dilleri'
+ine: 'Hint-Avrupa Dilleri'
+hi: Hintçe
+ho: 'Hiri Motu'
+hit: Hititçe
+hmn: Hmong
+khi: 'Hoisan Dilleri'
+nl: 'Hollanda Dili'
+kho: Hotanca
+hup: Hupa
+hr: Hırvatça
+iba: Iban
+io: Ido
+ijo: Ijo
+ilo: Iloko
+smn: 'Inari Sami'
+ia: Interlingua
+ie: Interlingue
+iu: Inuktitut
+ik: Inupiak
+ja: Japonca
+kaj: Jju
+kbd: Kabardeyce
+kab: Kabile
+cau: 'Kafkas Dilleri'
+xal: Kalmıkça
+kam: Kamba
+km: 'Kamboçya Dili'
+fr_CA: 'Kanada Fransızcası'
+en_CA: 'Kanada İngilizcesi'
+kn: Kannada
+kr: Kanuri
+kaa: Karakalpakça
+krc: Karaçay-Balkarça
+krl: Karelyaca
+kar: Karen
+csb: Kashubian
+ca: Katalanca
+kaw: Kawi
+kk: Kazakça
+kac: Kaçin
+cel: 'Kelt Dilleri'
+kw: Kernevekçe
+ks: Keşmirce
+kha: Khasi
+ki: Kikuyu
+cu: 'Kilise Slavcası'
+kmb: Kimbundu
+rw: Kinyarwanda
+cop: Kiptice
+gil: 'Kiribati Dili'
+rn: Kirundi
+nwc: 'Klasik Nevari'
+syc: 'Klasik Süryanice'
+tlh: Klingon
+kv: Komi
+kg: Kongo
+kok: Konkani
+ko: Korece
+kfo: Koro
+co: Korsikaca
+kos: Kosraean
+kpe: Kpelle
+kro: Kru
+kj: Kuanyama
+kum: Kumukça
+kru: Kurukh
+kut: Kutenai
+nai: 'Kuzey Amerika Yerli Dilleri'
+frr: 'Kuzey Frizce'
+nd: 'Kuzey Ndebele'
+se: 'Kuzey Sami'
+nso: 'Kuzey Sotho'
+cus: 'Kuşitik Diller'
+root: Köken
+ku: Kürtçe
+ky: Kırgızca
+crh: 'Kırım Türkçesi'
+lad: Ladino
+lah: Lahnda
+lam: Lamba
+lo: 'Laos Dili'
+es_419: 'Latin Amerika İspanyolcası'
+la: Latince
+pl: Lehçe
+lv: Letonca
+lez: Lezgice
+li: Limburgca
+ln: Lingala
+lt: Litvanyaca
+jbo: Lojban
+loz: Lozi
+lu: Luba-Katanga
+lua: Luba-Lulua
+lui: Luiseno
+smj: 'Lule Sami'
+lun: Lunda
+luo: Luo
+lus: Lushai
+lb: Lüksemburgca
+hu: Macarca
+mad: 'Madura Dili'
+mag: Magahi
+mai: Maithili
+mak: Makasar
+mk: Makedonca
+mg: Malagasi
+ms: Malay
+ml: Malayalam
+mt: 'Malta Dili'
+mdr: Mandar
+man: Mandingo
+mni: Manipuri
+gv: Manks
+mno: 'Manobo Dilleri'
+mnc: 'Mançurya Dili'
+mi: Maori
+mr: Marathi
+chm: Mari
+mh: 'Marshall Adaları Dili'
+mwr: Marwari
+mas: Masai
+myn: 'Maya Dilleri'
+men: Mende
+mic: Micmac
+min: Minangkabau
+mwl: 'Miranda Dili'
+moh: Mohawk
+mdf: 'Mokşa Dili'
+mo: Moldovaca
+mkh: 'Mon-Khmer Dilleri'
+lol: Mongo
+mos: Mossi
+mn: Moğolca
+mun: 'Munda Dilleri'
+nah: Nahuatl
+nap: Napolice
+na: 'Nauru Dili'
+nv: 'Navaho Dili'
+ng: Ndonga
+ne: Nepalce
+new: Newari
+nia: Nias
+nic: 'Nijer-Kordofan Dilleri'
+ssa: 'Nil-Sahara Dilleri'
+niu: Niuean
+nog: Nogayca
+no: Norveççe
+nb: 'Norveççe Bokmål'
+nn: 'Norveççe Nynorsk'
+nub: 'Nubian Dilleri'
+nym: Nyamwezi
+ny: Nyanja
+nyn: Nyankole
+tog: 'Nyasa Tonga'
+nyo: Nyoro
+nzi: Nzima
+nqo: N’Ko
+oj: 'Ojibva Dili'
+oc: Oksitanca
+or: Oriya
+om: Oromo
+cai: 'Orta Amerika Yerli Dilleri'
+dum: 'Ortaçağ Felemenkçesi'
+frm: 'Ortaçağ Fransızcası'
+gmh: 'Ortaçağ Yüksek Almancası'
+enm: 'Ortaçağ İngilizcesi'
+mga: 'Ortaçağ İrlandacası'
+osa: Osage
+os: Osetçe
+ota: 'Osmanlı Türkçesi'
+oto: 'Otomi Dilleri'
+pau: 'Palau Dili'
+pi: Pali
+pam: Pampanga
+pag: Pangasinan
+pap: Papiamento
+paa: 'Papua Dilleri'
+pal: 'Pehlevi Dili'
+pa: 'Pencap Dili'
+ps: Peştuca
+pon: Pohnpeian
+pt: Portekizce
+cpp: 'Portekizce tabanlı Creole ve Pidgin Dilleri'
+pra: 'Prakrit Dilleri'
+qu: Quechua
+raj: Rajasthani
+rap: Rapanui
+rar: Rarotongan
+rm: 'Rhaeto-Roman Dili'
+roa: 'Roman Dilleri'
+rom: Romanca
+ro: Romence
+ru: Rusça
+sal: 'Salishan Dilleri'
+sam: 'Samarit Aramcası'
+smi: 'Sami Dilleri'
+sm: 'Samoa Dili'
+sad: Sandawe
+sg: Sangho
+sa: Sanskritçe
+sat: Santali
+sc: 'Sardunya Dili'
+sas: Sasak
+sco: Scots
+sel: Selkup
+sem: 'Semitik Diller'
+srr: Serer
+tn: Setswana
+si: Seylanca
+shn: 'Shan Dili'
+sn: Shona
+ii: 'Sichuan Yi'
+scn: Sicilyaca
+sid: Sidamo
+bla: Siksika
+sd: Sindhi
+sit: 'Sino-Tibet Dilleri'
+ss: Siswati
+sio: 'Siu Dilleri'
+sms: 'Skolt Sami'
+sla: 'Slav Dilleri'
+den: Slavey
+sk: Slovakça
+sl: Slovence
+sog: "Sogdiana\_Dili"
+so: 'Somali Dili'
+son: Songhai
+snk: Soninke
+wen: 'Sorb Dilleri'
+srn: 'Sranan Tongo'
+suk: Sukuma
+su: 'Sunda Dili'
+sus: Susu
+sw: Swahili
+sux: Sümerce
+syr: Süryanice
+sh: 'Sırp-Hırvat Dili'
+sr: Sırpça
+tg: Tacikçe
+ty: 'Tahiti Dili'
+tai: 'Tai Dili'
+tl: Takalotça
+tmh: Tamaşek
+ta: Tamilce
+tt: Tatarca
+th: Tayca
+te: Telugu
+ter: Tereno
+tet: Tetum
+bo: Tibetçe
+tig: Tigre
+ti: Tigrinya
+tem: Timne
+tiv: Tiv
+tli: Tlingit
+tpi: 'Tok Pisin'
+tkl: Tokelau
+to: Tonga
+tsi: Tsimshian
+ts: Tsonga
+tum: Tumbuka
+tup: 'Tupi Dilleri'
+tyv: Tuvaca
+tvl: Tuvalu
+tw: Twi
+kcg: Tyap
+tk: Türkmence
+tr: Türkçe
+udm: Udmurtça
+uga: 'Ugarit Dili'
+uk: Ukraynaca
+rup: Ulahça
+umb: Umbundu
+ur: Urduca
+ug: Uygurca
+vai: Vai
+wa: Valonca
+ve: Venda
+vi: Vietnamca
+vo: Volapük
+wo: Volofca
+vot: Votic
+wak: 'Wakashan Dilleri'
+wal: Walamo
+war: Waray
+was: Washo
+xh: Xhosa
+jrb: 'Yahudi Arapçası'
+jpr: 'Yahudi Farsçası'
+sah: Yakutça
+yao: Yao
+art: 'Yapay Diller'
+yap: Yapça
+yi: Yidiş
+yo: Yoruba
+hsb: 'Yukarı Sorbça'
+el: Yunanca
+ypk: 'Yupik Dili'
+znd: Zande
+zap: 'Zapotek Dili'
+zza: Zazaca
+zen: Zenaga
+za: Zhuang
+zu: Zulu
+zun: Zuni
+chg: 'Çağatay Dili'
+cs: Çekçe
+ady: Çerkezce
+chr: Çeroki
+ce: Çeçence
+mis: 'Çeşitli Diller'
+zh: Çince
+cv: Çuvaşça
+uz: Özbekçe
+pt_PT: 'İber Portekizcesi'
+es_ES: 'İber İspanyolcası'
+ig: 'İbo Dili'
+he: İbranice
+en_GB: 'İngiliz İngilizcesi'
+en: İngilizce
+cpe: 'İngilizce tabanlı Creole ve Pidgin Dilleri'
+inh: 'İnguş Dili'
+ira: 'İran Dilleri'
+ga: 'İrlanda Dili'
+iro: 'İroqu Dili'
+gd: 'İskoç Gal Dili'
+es: İspanyolca
+sv: İsveççe
+gsw: 'İsviçre Almancası'
+fr_CH: 'İsviçre Fransızcası'
+de_CH: 'İsviçre Yüksek Almancası'
+it: İtalyanca
+is: İzlandaca
+sgn: 'İşaret Dilleri'
+chy: 'Şayen Dili'

@@ -1,0 +1,502 @@
+iso,name
+ab,abchaski
+ace,aceh
+ach,aczoli
+ada,adangme
+ady,adygejski
+aa,afar
+afh,afrihili
+af,afrikaans
+afa,afro-azjatycki
+ay,ajmara
+ain,ajnu
+akk,akadyjski
+ak,akan
+sq,albański
+ale,aleucki
+tut,ałtajski
+am,amharski
+en,angielski
+en_US,"angielski (USA)"
+cpe,"angielski kreolski lub pidżin"
+anp,angika
+ar,arabski
+an,aragoński
+arc,aramejski
+arp,arapaho
+arn,araukański
+arw,arawak
+rup,arumuński
+as,asamski
+ast,asturyjski
+cch,atsam
+de_AT,"austriacki niemiecki"
+map,austronezyjski
+awa,awadhi
+av,awarski
+ae,awestyjski
+znd,azande
+az,azerski
+ban,balijski
+bat,bałtycki
+bm,bambara
+bnt,bantu
+bas,basa
+eu,baskijski
+ba,baszkirski
+btk,batak
+bej,bedża
+bal,beludżi
+bem,bemba
+bn,bengalski
+ber,berberski
+bho,bhodźpuri
+be,białoruski
+bh,biharski
+bik,bikol
+bin,bini
+my,birmański
+bi,bislama
+byn,blin
+zbl,bliss
+bs,bośniacki
+bra,bradź
+zxx,"brak treści o charakterze lingwistycznym"
+br,bretoński
+en_GB,"brytyjski angielski"
+bug,bugiński
+bg,bułgarski
+bua,buriacki
+ceb,cebuano
+cel,celtycki
+ch,chamorro
+zh,chiński
+zh_Hant,"chiński (tradycyjny)"
+zh_Hans,"chiński (uproszczony)"
+sit,chińsko-tybetański
+chp,chipewyan
+cho,choctaw
+hr,chorwacki
+kho,chotański
+mus,creek
+rom,cygański
+chg,czagatajski
+cmc,czam
+ce,czeczeński
+cs,czeski
+chb,czibcza
+chr,czirokezki
+za,czuang
+cv,czuwaski
+day,dajak
+dak,dakota
+dar,dargwijski
+del,delaware
+din,dinka
+doi,dogri
+dgr,dogrib
+dsb,dolnołużycki
+nds,dolnosaksoński
+dra,drawidyjski
+dua,duala
+da,duński
+dyu,dyula
+dz,dzongkha
+efi,efik
+eka,ekajuk
+elx,elamicki
+myv,erzya
+eo,esperanto
+et,estoński
+ee,ewe
+ewo,ewondo
+fan,fang
+fat,fanti
+fo,farerski
+phn,fenicki
+fj,fidżijski
+fil,filipino
+phi,filipiński
+fi,fiński
+nl_BE,"flamandzki (Belgia)"
+fon,fon
+fr,francuski
+cpf,"francuski kreolski lub pidżin"
+fur,friulijski
+fy,fryzyjski
+frs,"fryzyjski wschodni"
+ff,fulani
+gaa,ga
+gl,galisyjski
+lg,ganda
+gay,gayo
+gba,gbaya
+gem,germański
+gil,gilbertański
+got,gocki
+gon,gondi
+gor,gorontalo
+hsb,górnołużycki
+grb,grebo
+el,grecki
+kl,grenlandzki
+ka,gruziński
+gn,guarani
+gu,gudźaracki
+gwi,gwichʼin
+gez,gyyz
+hai,haida
+ht,haitański
+ha,hausa
+haw,hawajski
+he,hebrajski
+hz,herero
+hit,hetycki
+hil,hiligajnon
+him,himachali
+hi,hindi
+ho,"hiri motu"
+es,hiszpański
+hmn,hmongijski
+hup,hupa
+iba,ibanag
+io,ido
+ig,igbo
+ijo,ijo
+ilo,ilokano
+inc,indoaryjski
+ine,indoeuropejski
+id,indonezyjski
+inh,inguski
+mis,"inny język"
+ia,interlingua
+ie,interlingue
+iu,inuktitut
+ik,inupiak
+ira,irański
+ga,irlandzki
+iro,irokeski
+is,islandzki
+sah,jakucki
+ja,japoński
+yap,japski
+jv,jawajski
+apa,"język Apaczów"
+ath,"język Atapasków"
+aus,"język australijski"
+bai,"język bamileke"
+bad,"język banda"
+chy,"język Czejenów"
+sai,"język Indian południowoamerykańskich"
+nai,"język Indian północnoamerykańskich"
+cai,"język Indian środkowoamerykańskich"
+myn,"język Majów"
+root,"język rdzenny"
+alg,"języki algonkin"
+yi,jidysz
+kaj,jju
+yo,joruba
+jrb,judeoarabski
+jpr,judeoperski
+ypk,jupik
+kbd,kabardyjski
+kab,kabylski
+kac,kaczin
+cad,kaddo
+xal,kałmucki
+kam,kamba
+en_CA,"kanadyjski angielski"
+fr_CA,"kanadyjski francuski"
+kn,kannada
+yue,kantoński
+kr,kanuri
+krc,karaczajsko-bałkarski
+kaa,karakałpacki
+krl,karelski
+kar,kareński
+car,karibi
+ks,kaszmirski
+csb,kaszubski
+ca,kataloński
+cau,kaukaski
+kaw,kawi
+kk,kazachski
+qu,keczua
+kha,khasi
+km,khmerski
+khi,khoisan
+xh,khosa
+ki,kikuju
+kmb,kimbundu
+rw,kinya-ruanda
+ky,kirgiski
+tlh,klingoński
+kv,komi
+swb,komoryjski
+kg,kongo
+kok,konkani
+cop,koptyjski
+ko,koreański
+kw,kornijski
+kfo,koro
+co,korsykański
+kos,kosrae
+kpe,kpelle
+crp,"kreolski lub pidżin"
+cr,kri
+kro,kru
+crh,"krymski turecki"
+kum,kumycki
+ku,kurdyjski
+kru,kurukh
+cus,kuszycki
+kut,kutenai
+kj,kwanyama
+lad,ladyński
+lah,lahnda
+lam,lamba
+lo,laotański
+smi,lapoński
+smn,"lapoński Inari"
+smj,"lapoński Lule"
+sma,"lapoński południowy"
+se,"lapoński północny"
+sms,"lapoński Skolt"
+lez,lezgijski
+li,limburgijski
+ln,lingala
+lt,litewski
+jbo,lojban
+loz,lozi
+lu,luba-katanga
+lua,luba-lulua
+lui,luiseno
+lb,luksemburski
+lun,lunda
+luo,luo
+lus,lushai
+la,łaciński
+lv,łotewski
+wen,łużycki
+mk,macedoński
+mad,madurajski
+mag,magahi
+mai,maithili
+mak,makasar
+ml,malajalam
+ms,malajski
+dv,malediwski
+mg,malgaski
+mt,maltański
+mnc,manchu
+mdr,mandar
+man,mandingo
+mni,manipuryjski
+mno,manobo
+gv,manx
+mi,maoryjski
+mr,marathi
+mh,marshall
+mwr,marwari
+chm,maryjski
+mas,masajski
+men,mende
+mic,micmac
+sgn,migowy
+min,minangkabu
+mwl,mirandese
+moh,mohawk
+mdf,moksha
+mo,mołdawski
+mkh,mon-khmer
+lol,mongo
+mn,mongolski
+mos,mossi
+mun,mundajski
+nqo,n’ko
+nah,nahuatl
+na,nauru
+nv,nawaho
+nr,"ndebele południowy"
+nd,"ndebele północny"
+ng,ndonga
+nap,neapolitański
+ne,nepalski
+new,newarski
+nwc,"newarski klasyczny"
+nym,niamwezi
+nia,nias
+nl,niderlandzki
+de,niemiecki
+gsw,"niemiecki (Szwajcaria)"
+und,"nieznany lub niepoprawny język"
+nic,nigrokordofański
+ssa,nilosaharyjski
+niu,niue
+ny,njandża
+nog,nogajski
+no,norweski
+nb,"norweski Bokmål"
+nn,"norweski Nynorsk"
+nub,nubijski
+nyn,nyankole
+nyo,nyoro
+nzi,nzema
+oj,odżibwa
+or,orija
+hy,ormiański
+om,oromski
+osa,osage
+os,osetyjski
+ota,osmańsko-turecki
+oto,otomi
+pal,pahlavi
+pau,palau
+pi,palijski
+pam,pampango
+pag,pangasino
+pap,papiamento
+paa,papuaski
+ps,paszto
+pa,pendżabski
+fa,perski
+pl,polski
+alt,południowoałtajski
+pon,ponpejski
+pt,portugalski
+pt_PT,"portugalski (Półwysep Iberyjski)"
+cpp,"portugalski kreolski lub pidżin"
+frr,północnofryzyjski
+pra,prakryty
+oc,prowansalski
+raj,radźasthani
+rap,rapanui
+rar,rarotonga
+rm,retoromański
+roa,romański
+ru,rosyjski
+ro,rumuński
+rn,rundi
+sal,salisz
+sam,"samarytański aramejski"
+sm,samoański
+sad,sandawe
+sg,sango
+sa,sanskryt
+sat,santali
+sc,sardyński
+sas,sasak
+sel,selkupski
+sem,semicki
+sr,serbski
+sh,serbsko-chorwacki
+srr,serer
+tn,setswana
+shn,shan
+sid,sidamo
+bla,siksika
+sd,sindhi
+sio,siouański
+ss,siswati
+den,slave
+sk,słowacki
+sl,słoweński
+sla,słowiański
+sog,sogdyjski
+so,somalijski
+son,songhaj
+snk,soninke
+st,"sotho południowy"
+nso,"sotho północny"
+srn,"sranan tongo"
+cu,staro-cerkiewno-słowiański
+goh,staro-wysoko-niemiecki
+ang,staroangielski
+fro,starofrancuski
+grc,starogrecki
+sga,staroirlandzki
+non,staronordyjski
+peo,staroperski
+pro,staroprowansalski
+egy,"starożytny egipski"
+sw,suahili
+suk,sukuma
+sux,sumeryjski
+su,sundajski
+sus,susu
+scn,sycylijski
+ii,syczuański
+si,syngaleski
+syc,syriacki
+syr,syryjski
+sco,szkocki
+gd,"szkocki gaelicki"
+sn,szona
+art,sztuczny
+sv,szwedzki
+gmh,średnio-wysoko-niemiecki
+enm,średnioangielski
+frm,średniofrancuski
+mga,średnioirlandzki
+dum,"średniowieczny niderlandzki"
+tg,tadżycki
+tl,tagalski
+ty,tahitański
+th,tajski
+tmh,tamaszek
+ta,tamilski
+tt,tatarski
+te,telugu
+tem,temne
+ter,tereno
+tet,tetum
+tig,tigre
+ti,tigrinia
+tiv,tiw
+tli,tlingit
+tpi,"tok pisin"
+tkl,tokelau
+to,tonga
+tog,"tonga (Niasa)"
+chk,truk
+tsi,tsimshian
+ts,tsonga
+tum,tumbuka
+tup,tupi
+tr,turecki
+tk,turkmeński
+tvl,tuvalu
+tyv,tuwiński
+tw,twi
+kcg,tyap
+bo,tybetański
+udm,udmurcki
+uga,ugarycki
+fiu,ugrofiński
+ug,ujgurski
+uk,ukraiński
+umb,umbundu
+ur,urdu
+uz,uzbecki
+ve,venda
+vo,volapuk
+vai,wai
+wak,wakasz
+wal,walamo
+cy,walijski
+wa,waloński
+war,waraj
+was,washo
+hu,węgierski
+vi,wietnamski
+it,włoski
+wo,wolof
+vot,wotiacki
+de_CH,"wysokoniemiecki (Szwajcaria)"
+yao,yao
+zap,zapotecki
+zza,zazaki
+zen,zenaga
+zu,zulu
+zun,zuni
+chn,"żargon Chinook"

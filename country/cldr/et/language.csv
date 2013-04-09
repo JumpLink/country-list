@@ -1,0 +1,491 @@
+iso,name
+aus,"Austraalia keeled"
+smn,"Inari saami"
+smj,"Lule saami"
+nub,"Nuubia keeled"
+sam,"Samaaria aramea"
+ii,"Sichuani jii"
+ab,abhaasi
+ada,adangme
+ady,adõgee
+aa,afari
+afh,afrihili
+af,afrikaani
+ay,aimara
+ain,ainu
+akk,akadi
+ak,akani
+ach,akoli
+nds,alamsaksa
+dsb,alamsorbi
+sq,albaania
+gsw,alemanni
+ale,aleuudi
+alg,"algonkini keeled"
+alt,altai
+kj,ambo
+am,amhari
+anp,angika
+apa,"apatši keeled"
+ar,araabia
+an,aragoni
+arc,aramea
+arp,arapaho
+arn,araukaani
+arw,aravaki
+hy,armeenia
+rup,aromuuni
+az,aserbaidžaani
+as,assami
+ast,astuuria
+ath,"atapaski keeled"
+cch,atsam
+ace,atšehi
+map,"austroneesia keeled"
+av,avaari
+awa,avadhi
+ae,avesta
+ban,bali
+bm,bambara
+bai,"bamileke keeled"
+bad,banda
+bnt,bantu
+bas,basa
+eu,baski
+btk,bataki
+ba,baškiiri
+bej,bedža
+pau,belau
+bal,belutši
+bem,bemba
+bn,bengali
+ber,berberi
+bho,bhodžpuri
+dz,bhutani
+bh,bihaari
+bik,bikoli
+byn,bilini
+my,birma
+bi,bislama
+bs,bosnia
+bra,bradži
+br,bretooni
+bug,bugi
+bg,bulgaaria
+bua,burjaadi
+day,dajaki
+dar,dargi
+del,delavari
+din,dinka
+dyu,djula
+doi,dogri
+dgr,dogribi
+dua,duala
+bin,edo
+elx,eelami
+et,eesti
+eka,ekadžuki
+myv,ersa
+eo,esperanto
+gez,etioopia
+ee,eve
+ewo,evondo
+fan,fangi
+fat,fanti
+fj,fidži
+fil,filipino
+phn,foiniikia
+fon,foni
+fur,friuuli
+ff,fulbe
+fo,fääri
+gaa,gaa
+gd,gaeli
+gay,gajo
+gl,galeegi
+lg,ganda
+gba,gbaja
+gon,gondi
+got,gooti
+gor,gorontalo
+grb,grebo
+ka,gruusia
+kl,grööni
+gn,guaranii
+gu,gudžarati
+gwi,gvitšini
+hai,haida
+ht,haiti
+ha,hausa
+haw,havai
+he,heebrea
+hz,herero
+hit,heti
+zh,hiina
+zh_Hans,"hiina keel - lihtsustatud"
+zh_Hant,"hiina keel - traditsiooniline"
+hil,hiligainoni
+him,himtšali
+hi,hindi
+es,hispaania
+hmn,hmongi
+nl,hollandi
+hr,horvaadi
+hup,hupa
+iba,ibani
+efi,ibibio
+ig,ibo
+frs,idafriisi
+io,ido
+ijo,idžo
+ga,iiri
+ilo,iloko
+id,indoneesia
+en,inglise
+en_US,"inglise (USA)"
+inh,inguši
+ik,injupiaki
+ia,interlingua
+ie,interlingue
+iu,inuktituti
+iro,"irokeesi keeled"
+is,islandi
+it,itaalia
+ja,jaapani
+jv,jaava
+sah,jakuudi
+yao,jao
+yap,japi
+yi,jidiši
+kaj,jju
+yo,joruba
+ypk,"jupiki keeled"
+jrb,juudiaraabia
+jpr,juudipärsia
+kaw,kaavi
+kbd,kabardi-tšerkessi
+kab,kabiili
+cad,kado
+xal,kalmõki
+kam,kamba
+kn,kannada
+kr,kanuri
+kaa,karakalpaki
+krc,karatšai-balkaari
+kar,kareni
+car,kariibi
+krl,karjala
+kk,kasahhi
+ca,katalaani
+kac,katšini
+ks,kašmiiri
+csb,kašuubi
+dum,keskhollandi
+mga,keskiiri
+enm,keskinglise
+frm,keskprantsuse
+gmh,keskülemsaksa
+qu,ketšua
+kha,khasi
+km,khmeeri
+ki,kikuju
+ky,kirgiisi
+gil,kiribati
+cu,kirikuslaavi
+tlh,klingoni
+sms,koltasaami
+kv,komi
+kg,kongo
+kok,konkani
+xh,koosa
+cop,kopti
+ko,korea
+kw,korni
+kfo,koro
+co,korsika
+kos,kosrae
+kpe,kpelle
+el,kreeka
+cr,krii
+crh,krimmitatari
+kro,kruu
+kum,kumõki
+ku,kurdi
+kut,kutenai
+cy,kõmri
+lad,ladiino
+la,ladina
+lah,lahnda
+lam,lamba
+lo,lao
+lt,leedu
+lez,lesgi
+lb,letseburgi
+li,limburgi
+ln,lingala
+jbo,lojbani
+loz,lozi
+lu,luba
+lui,luisenjo
+lua,lulua
+lun,lunda
+luo,luo
+lus,lušei
+lv,läti
+fy,läänefriisi
+nr,lõunandebele
+sma,lõunasaami
+st,lõunasotho
+mad,madura
+mag,magali
+myn,"maia keeled"
+mai,maithili
+mak,makassari
+mk,makedoonia
+mg,malagassi
+ms,malai
+ml,malajalami
+dv,maldiivi
+man,malinke
+mt,malta
+mdr,mandari
+mnc,mandžu
+mni,manipuri
+mno,"manobo keeled"
+mi,maoori
+mr,marathi
+chm,mari
+mwr,marvari
+mh,maršalli
+mas,masai
+mus,maskogi
+kmb,mbundu
+men,mende
+mic,mikmaki
+min,minangkabau
+mwl,miranda
+zxx,mittekeeleline
+mul,"mitu keelt"
+moh,mohoogi
+mdf,mokša
+mo,moldova
+lol,mongo
+mn,mongoli
+mos,more
+ho,motu
+egy,muinasegiptuse
+mun,"munda keel"
+rom,mustlaskeel
+tut,"muu Altai"
+phi,"muu Filipiini"
+sit,"muu Hiina-Tiibeti"
+inc,"muu India"
+ira,"muu Iraani"
+cau,"muu Kaukaasia"
+cai,"muu Kesk-Ameerika indiaani"
+sai,"muu Lõuna-Ameerika indiaani"
+nic,"muu Nigeri-Kordofani"
+ssa,"muu Niiluse-Sahara"
+paa,"muu Paapua"
+nai,"muu Põhja-Ameerika indiaani"
+afa,"muu afroaasia"
+bat,"muu balti"
+dra,"muu draviidi keel"
+gem,"muu germaani"
+ine,"muu indoeuroopa"
+cel,"muu keldi"
+khi,"muu khoisani"
+cus,"muu kuši keel"
+mkh,"muu moni-khmeeri"
+roa,"muu romaani"
+smi,"muu saami"
+sem,"muu semi"
+sla,"muu slaavi"
+fiu,"muu soomeugri"
+tai,"muu tai keel"
+art,"muu tehiskeel"
+cpe,"muud inglispõhjalised kreool- ja pidžinkeeled"
+crp,"muud kreool- ja pidžinkeeled"
+cpp,"muud portugalipõhjalised kreool- ja pidžinkeeled"
+cpf,"muud prantsuspõhjalised kreool- ja pidžinkeeled"
+gv,mänksi
+und,määramata
+nah,nahua
+nap,napoli
+na,nauru
+nv,navaho
+ng,ndonga
+ne,nepali
+new,nevari
+nia,niasi
+niu,niue
+nym,njamvesi
+ny,njandža
+nyo,njoro
+nyn,nkole
+nqo,nkoo
+nog,nogai
+no,norra
+nb,"norra bokmål"
+nn,"norra nynorsk"
+nzi,nzima
+oj,odžibvei
+oc,oksitaani
+kru,oraoni
+or,oria
+om,oromo
+osa,oseidži
+ota,osmanitürgi
+os,osseedi
+oto,"otomi keeled"
+pi,paali
+pal,pahlavi
+pam,pampanga
+pa,pandžabi
+pag,pangasinani
+pap,papiamento
+nso,pedi
+pl,poola
+pon,poonpei
+pt,portugali
+pra,"praakriti keeled"
+fr,prantsuse
+ps,puštu
+fa,pärsia
+frr,põhjafriisi
+nd,põhjandebele
+se,põhjasaami
+raj,radžastani
+rap,rapanui
+rar,rarotonga
+rm,retoromaani
+sv,rootsi
+rw,ruanda
+ro,rumeenia
+rn,rundi
+kho,saki
+de,saksa
+sal,"sališi keeled"
+sm,samoa
+sad,sandave
+sg,sango
+sa,sanskriti
+sat,santali
+zap,sapoteegi
+sc,sardiinia
+sas,sasaki
+ceb,sebu
+sr,serbia
+sh,serbia-horvaadi
+srr,sereri
+sid,sidamo
+bla,siksika
+sd,sindhi
+si,singali
+scn,sitsiilia
+dak,siuu
+sio,"siuu keeled"
+den,sleivi
+sk,slovaki
+sl,sloveeni
+sog,sogdi
+so,somaali
+son,songai
+snk,soninke
+fi,soome
+wen,"sorbi keeled"
+srn,sranani
+sw,suahiili
+suk,sukuma
+sux,sumeri
+su,sunda
+zun,sunji
+sus,susu
+zu,suulu
+ss,svaasi
+sel,sölkupi
+syr,süüria
+da,taani
+tg,tadžiki
+tl,tagalogi
+ty,tahiti
+th,tai
+tmh,tamašeki
+ta,tamili
+tt,tatari
+te,telugu
+tem,temne
+ter,tereno
+tet,tetumi
+tig,tigree
+ti,tigrinja
+bo,tiibeti
+tiv,tivi
+tli,tlingiti
+tkl,tokelau
+to,tonga
+ts,tsonga
+tn,tsvana
+tum,tumbuka
+tup,"tupii keeled"
+tvl,tuvalu
+tw,tvii
+kcg,tyap
+tyv,tõva
+tr,türgi
+tk,türkmeeni
+chg,tšagatai
+cmc,"tšami keeled"
+ch,tšamorro
+cs,tšehhi
+chr,tšerokii
+ce,tšetšeeni
+chb,tšibtša
+tsi,"tšimši keeled"
+chn,"tšinuki žargoon"
+chp,tšipevai
+tog,tšitonga
+cho,tšokto
+za,tšuangi
+chk,tšuugi
+cv,tšuvaši
+udm,udmurdi
+uga,ugariti
+ug,uiguuri
+uk,ukraina
+umb,umbundu
+hu,ungari
+ur,urdu
+uz,usbeki
+tpi,uusmelaneesia
+vot,vadja
+vai,vai
+wak,"vakaši keeled"
+be,valgevene
+wa,vallooni
+sga,vanaiiri
+ang,vanainglise
+grc,vanakreeka
+nwc,vananevari
+fro,vanaprantsuse
+pro,vanaprovansi
+peo,vanapärsia
+non,vanapõhjala
+goh,vanaülemsaksa
+war,varai
+was,vašo
+ve,venda
+ru,vene
+vi,vietnami
+sgn,viipekeeled
+wal,volamo
+vo,volapüki
+wo,volofi
+znd,zande
+zen,zenaga
+mis,üksikkeeled
+hsb,ülemsorbi
+chy,šaieeni
+shn,šani
+sn,šona
+sco,šoti

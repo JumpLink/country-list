@@ -1,0 +1,26 @@
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `country` (`id`, `name`) VALUES ('am', 'अंहाऱिक्');
+INSERT INTO `country` (`id`, `name`) VALUES ('ak', 'अकन्');
+INSERT INTO `country` (`id`, `name`) VALUES ('akk', 'अक्काटियान्');
+INSERT INTO `country` (`id`, `name`) VALUES ('anp', 'अङ्गिक');
+INSERT INTO `country` (`id`, `name`) VALUES ('ace', 'अचिनीस्');
+INSERT INTO `country` (`id`, `name`) VALUES ('ach', 'अचोलि');
+INSERT INTO `country` (`id`, `name`) VALUES ('und', 'अज्ञात भाषा');
+INSERT INTO `country` (`id`, `name`) VALUES ('ada', 'अडङ्गमे');
+INSERT INTO `country` (`id`, `name`) VALUES ('apa', 'अपाचे भाषा');
+INSERT INTO `country` (`id`, `name`) VALUES ('aa', 'अफर');
+INSERT INTO `country` (`id`, `name`) VALUES ('af', 'अफ्रिक्कान्स्');
+INSERT INTO `country` (`id`, `name`) VALUES ('afh', 'अफ्रिहिलि');
+INSERT INTO `country` (`id`, `name`) VALUES ('ab', 'अब्खासियन्');
+INSERT INTO `country` (`id`, `name`) VALUES ('ain', 'अयिनु');
+INSERT INTO `country` (`id`, `name`) VALUES ('ar', 'अऱबिक्');
+INSERT INTO `country` (`id`, `name`) VALUES ('ale', 'अलियुट्');
+INSERT INTO `country` (`id`, `name`) VALUES ('alg', 'अल्गोण्क्यन् भाषा');
+INSERT INTO `country` (`id`, `name`) VALUES ('sq', 'अल्बेनियन्');
+INSERT INTO `country` (`id`, `name`) VALUES ('afa', 'आफ्रो एष्यन् भाषा');
+INSERT INTO `country` (`id`, `name`) VALUES ('tut', 'आळटिक् भाषा');
+INSERT INTO `country` (`id`, `name`) VALUES ('nb', 'नोर्वीजियन् बॊकामल्');
+INSERT INTO `country` (`id`, `name`) VALUES ('grc', 'पुरातन यवन भाषा');
+INSERT INTO `country` (`id`, `name`) VALUES ('egy', 'प्राचीन ईजिप्त्यन्');
+INSERT INTO `country` (`id`, `name`) VALUES ('sa', 'संस्कृत भाषा');

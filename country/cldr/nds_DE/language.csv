@@ -1,0 +1,506 @@
+iso,name
+ab,Abchaasch
+ace,Aceh
+ach,Acholi
+ada,Adangme
+ady,Adygeisch
+aa,Afar
+afh,Afrihili
+af,Afrikaansch
+afa,"Afro-Asiaatsche Spraken"
+ain,Ainu
+ak,Akan
+akk,Akkadsch
+sq,Albaansch
+ale,Aleutsch
+alg,Algonkin-Spraken
+tut,"Altaische Spraken"
+en_US,"Amerikaansch Engelsch"
+am,Amhaarsch
+anp,Angika
+apa,Apache
+ar,Araabsch
+an,Aragoneesch
+arc,Aramääsch
+arp,Arapaho
+arn,Araukaansch
+arw,Arawak-Spraken
+hy,Armeensch
+rup,Aromuunsch
+az,Aserbaidschaansch
+as,Assameesch
+ast,Asturiaansch
+ath,"Athabasksche Spraken"
+cch,Atsam
+en_AU,"Austraalsch Engelsch"
+aus,"Austraalsche Spraken"
+map,"Austroneesche Spraken"
+ae,Avestsch
+av,Awaarsch
+awa,Awadhi
+ay,Aymara
+ban,Balineesch
+bat,"Baltsche Spraken"
+bm,Bambara
+bai,Bamileke
+bad,Banda
+bnt,Bantuspraken
+bas,Basaa
+ba,Baschkiersch
+eu,Basksch
+btk,Batak
+bej,Bedscha
+bal,Belutschisch
+bem,Bemba
+bn,Bengaalsch
+ber,Berberspraken
+bho,Bhodschpuri
+dz,Bhutaansch
+bh,Bihaarsch
+bik,Bikol
+bin,Bini
+my,Birmaansch
+bi,Bislama
+byn,Blin
+zbl,Bliss-Symbolen
+bs,Bosnisch
+bra,Braj-Bhakha
+pt_BR,"Brasiliaansch Portugeesch"
+br,Bretoonsch
+en_GB,"Brietsch Engelsch"
+bug,Bugineesch
+bg,Bulgaarsch
+bua,Burjaatsch
+hsb,Böversorbsch
+cad,Caddo
+ceb,Cebuano
+cmc,Cham-Spraken
+ch,Chamorro
+chr,Cherokee
+chy,Cheyenne
+chb,Chibcha-Spraken
+zh,Chineesch
+chn,Chinook
+chp,Chipewyan
+cho,Choctaw
+cr,Cree
+day,Dajak
+dak,Dakota
+dar,Dargiensch
+del,Delaware
+din,Dinka
+doi,Dogri
+dgr,Dogrib
+dra,"Drawiedsche Spraken"
+dua,Duala
+dyu,Dyula
+da,Däänsch
+de,Düütsch
+et,Eestnisch
+efi,Efik
+eka,Ekajuk
+elx,Elaamsch
+tvl,Elliceaansch
+en,Engelsch
+myv,Erzya
+eo,Esperanto
+ee,Ewe
+ewo,Ewondo
+fat,Fanti
+fj,Fidschiaansch
+fiu,"Finnougrische Spraken"
+fi,Finnsch
+nl_BE,Fläämsch
+fon,Fon
+fr,Franzöösch
+fur,Friuulsch
+ff,Ful
+fo,Färöösch
+gaa,Ga
+gl,Galizisch
+lg,Ganda
+gay,Gayo
+gba,Gbaya
+gez,Geez
+ka,Georgsch
+gem,"Germaansche Spraken"
+gil,Gilberteesch
+gon,Gondi
+got,Gootsch
+gor,Gorontalo
+grb,Grebo
+el,Greeksch
+kl,Gröönlandsch
+gn,Guarani
+gu,Gujarati
+hai,Haida
+ht,Haitiaansch-Kreoolsch
+ha,Haussa
+haw,Hawaiiaansch
+he,Hebrääsch
+hz,Herero
+hit,Hethitsch
+hil,Hiligaynon
+him,Himachali
+hi,Hindi
+ho,Hiri-Motu
+hup,Hupa
+iba,Iban
+pt_PT,"Ibeersch Portugeesch"
+es_ES,"Ibeersch Spaansch"
+io,Ido
+ga,Iersch
+is,Ieslandsch
+ig,Igbo
+ijo,Ijo
+ilo,Ilokano
+smn,Inari-Lappsch
+nai,"Indianerspraken in Noordamerika"
+sai,"Indianerspraken in Süüdamerika"
+cai,"Indianerspraken in Zentralamerika"
+inc,"Indoarische Spraken"
+ine,"Indogermaansche Spraken"
+id,Indoneesch
+inh,Ingusch’sch
+ia,Interlingua
+ie,Interlingue
+iu,Inuktitut
+ik,Inupiak
+ira,"Iraansche Spraken"
+iro,"Irokeesche Spraken"
+it,Italieensch
+sah,Jakuutsch
+ja,Japaansch
+jv,Javaansch
+yi,Jiddisch
+kaj,Jju
+jrb,Jöödsch-Araabsch
+jpr,Jöödsch-Pers’sch
+kbd,Kabardiensch
+kab,Kabyylsch
+kac,Kachin
+xal,Kalmücksch
+kam,Kamba
+km,Kambodschaansch
+en_CA,"Kanaadsch Engelsch"
+fr_CA,"Kanaadsch Franzöösch"
+kn,Kannada
+kr,Kanuursch
+kaa,Karakalpaksch
+krc,Karatschaisch-Balkaarsch
+krl,Kareelsch
+kar,Kareensch
+car,"Kariebsche Spraken"
+cu,Karkenslaavsch
+kk,Kasach’sch
+ks,Kaschmiersch
+csb,Kaschuubsch
+ca,Katalaansch
+cau,"Kaukaasche Spraken"
+kaw,Kawi
+zxx,"Keen Spraakinhold"
+cel,"Keltsche Spraken"
+kha,Khasi
+khi,Khoisan-Spraken
+ki,Kikuyu
+kmb,Kimbundu
+ky,Kirgiesch
+tlh,Klingoonsch
+kv,Komi
+kg,Kongo
+kok,Konkani
+kw,Koornsch
+co,Koorsch
+cop,Koptsch
+ko,Koreaansch
+kfo,Koro
+kos,Kosraeaansch
+kpe,Kpelle
+cpe,"Kreoolsch-Engelsche Spraken"
+cpf,"Kreoolsch-Franzöösche Spraken"
+cpp,"Kreoolsch-Portugeesche Spraken"
+crp,"Kreoolsche Spraken"
+crh,Krimtataarsch
+hr,Kroaatsch
+kro,Kru-Spraken
+kum,Kumücksch
+art,Kunstspraken
+ku,Kurdsch
+cus,"Kuschietsche Spraken"
+gwi,Kutchin
+kut,Kutenai
+kj,Kwanyama
+lad,Ladiensch
+lah,Lahnda
+lam,Lamba
+lo,Laootsch
+smi,Lappsch
+es_419,"Latienamerikaansch Spaansch"
+la,Latiensch
+lez,Lesgisch
+lv,Lettsch
+li,Limborgsch
+ln,Lingala
+lt,Litausch
+jbo,Lojban
+lu,Luba
+lua,Luba-Lulua
+lui,Luiseno
+smj,Lule-Lappsch
+lun,Lunda
+luo,Luo
+lus,Lushai
+lb,Luxemborgsch
+mg,Madagassisch
+mad,Madureesch
+mag,Magahi
+mai,Maithili
+mak,Makassarsch
+ms,Malaisch
+ml,Malayalam
+dv,Maledievsch
+mt,Malteesch
+mdr,Mandareesch
+man,Manding
+mnc,Mandschuursch
+mni,Manipuri
+mno,Manobo
+gv,Manx
+mi,Maori
+mr,Marathi
+chm,Mari
+mh,Marschalleesch
+mwr,Marwari
+mas,Massai
+myn,Maya-Spraken
+mk,Mazedoonsch
+umb,Mbundu
+mul,Mehrsprakig
+men,Mende
+hmn,Miao-Spraken
+mic,Micmac
+enm,Middelengelsch
+frm,Middelfranzöösch
+gmh,Middelhoochdüütsch
+mga,Middeliersch
+dum,Middelnedderlandsch
+pal,Middelpers’sch
+min,Minangkabau
+mwl,Mirandeesch
+moh,Mohawk
+mdf,Mokscha
+mo,Moldaawsch
+mkh,Mon-Khmer-Spraken
+lol,Mongo
+mn,Mongoolsch
+mos,Mossi
+mun,Munda-Spraken
+mus,Muskogee-Spraken
+nah,Nahuatl
+na,Nauruusch
+nv,Navajo
+ng,Ndonga
+nap,Neapolitaansch
+nl,Nedderlandsch
+dsb,Neddersorbsch
+ne,Nepaleesch
+new,Newari
+nia,Nias
+nic,"Nigerkordofaansche Spraken"
+ssa,"Nilosaharaansche Spraken"
+niu,Niue
+nog,Nogai
+nd,Noord-Ndebele
+se,Noord-Saamsch
+nso,Noord-Sotho
+frr,Noordfreesch
+no,Norweegsch
+nb,"Norweegsch Bokmål"
+nn,"Norweegsch Nynorsk"
+nub,"Nuubsche Spraken"
+nym,Nyamwezi
+ny,Nyanja
+nyn,Nyankole
+nyo,Nyoro
+nzi,Nzima
+nqo,N’Ko
+oj,Ojibwa
+oc,Okzitaansch
+sga,Oold-Iersch
+nwc,Oold-Newari
+syc,Oold-Syyrsch
+ang,Ooldengelsch
+fro,Ooldfranzöösch
+grc,Ooldgreeksch
+goh,Ooldhoochdüütsch
+non,Ooldnoorsch
+peo,Ooldpers’sch
+pro,Ooldprovenzaalsch
+rap,Oosterinsel-Spraak
+kru,Oraon
+or,Orija
+om,Oromo
+osa,Osage
+ota,Osmaansch
+os,Ossetsch
+oto,Otomangue-Spraken
+pau,Palausch
+pi,Pali
+pam,Pampanggan
+pa,Pandschabsch
+pag,Pangasinan
+fan,Pangwe
+pap,Papiamento
+paa,Papuaspraken
+ps,Paschtu
+fa,Pers’sch
+fil,Philippiensch
+phi,"Philippinen-Austroneesche Spraken"
+phn,Phönieksch
+nds,Plattdüütsch
+pon,Ponapeaansch
+pl,Poolsch
+pt,Portugeesch
+pra,Prakrit
+qu,Quechua
+raj,Rajasthani
+rar,Rarotongaansch
+roa,"Romaansche Spraken"
+rom,Romani
+loz,Rotse
+rw,Ruandsch
+ro,Rumäänsch
+rn,Rundi
+ru,Russ’sch
+rm,Rätoromaansch
+kho,Saaksch
+sal,Salish
+sam,Samaritaansch
+sm,Samoaansch
+sad,Sandawe
+sg,Sango
+sa,Sanskrit
+sat,Santali
+sc,Sardsch
+sas,Sasak
+frs,Saterfreesch
+shn,Schan
+sn,Schona
+sco,Schottsch
+gd,"Schottsch Gäälsch"
+sel,Selkupsch
+sem,"Semietsche Spraken"
+sr,Serbsch
+srr,Serer
+ii,"Sichuan Yi"
+sid,Sidamo
+bla,Siksika
+sd,Sindhi
+si,Singhaleesch
+sit,"Sinotibeetsche Spraken"
+sio,Sioux-Spraken
+scn,Siziliaansch
+sms,Skolt-Lappsch
+sla,"Slaavsche Spraken"
+den,Slave
+sk,Slowaaksch
+sl,Sloweensch
+sog,Sogdisch
+so,Somaalsch
+son,Songhai
+snk,Soninke
+wen,Sorbsch
+es,Spaansch
+sw,Suaheli
+suk,Sukuma
+sux,Sumersch
+su,Sundaneesch
+srn,Surinaamsch
+sus,Susu
+ss,Swazi
+sv,Sweedsch
+fr_CH,"Swiezer Franzöösch"
+de_CH,"Swiezer Hoochdüütsch"
+gsw,Swiezerdüütsch
+syr,Syyrsch
+alt,Süüd-Altaisch
+sma,Süüd-Lappsch
+nr,Süüd-Ndebele
+st,Süüd-Sotho
+tg,Tadschiksch
+tl,Tagalog
+ty,Tahitsch
+tmh,Tamaschek
+ta,Tamilsch
+tt,Tataarsch
+sgn,Tekenspraken
+te,Telugu
+tem,Temne
+ter,Tereno
+tet,Tetum
+th,Thai
+tai,Thaispraken
+bo,Tibeetsch
+tig,Tigre
+ti,Tigrinja
+tiv,Tiv
+tli,Tlingit
+tpi,"Tok Pisin"
+tkl,Tokelausch
+tog,"Tonga (Nyasa)"
+to,Tongaasch
+zh_Hant,"Traditschonell Chineesch"
+chk,Trukeesch
+chg,Tschagataisch
+cs,Tschech’sch
+ce,Tschetscheensch
+cv,Tschuwasch’sch
+tsi,Tsimshian
+ts,Tsonga
+tn,Tswana
+tum,Tumbuka
+tup,Tupi-Spraken
+tk,Turkmeensch
+tyv,Tuwinsch
+tw,Twi
+kcg,Tyap
+tr,Törksch
+udm,Udmurtsch
+uga,Ugaritsch
+ug,Uiguursch
+uk,Ukrainsch
+und,"Unbestimmte Spraak"
+hu,Ungaarsch
+ur,Urdu
+uz,Usbeeksch
+vai,Vai
+ve,Venda
+zh_Hans,"Vereenfacht Chineesch"
+mis,"Verschedene Spraken"
+vi,Vietnameesch
+vo,Volapük
+wak,Wakashaansch
+wal,Walamo
+cy,Waliesch
+wa,Walloonsch
+war,Waray
+was,Washo
+fy,Westfreesch
+be,Wittruss’sch
+wo,Wolof
+vot,Wootsch
+root,Wortel
+xh,Xhosa
+yao,Yao
+yap,Yapeesch
+yo,Yoruba
+ypk,Yupik
+znd,Zande
+zap,Zapoteeksch
+zza,Zaza
+zen,Zenaga
+za,Zhuang
+zu,Zulu
+zun,Zuni
+egy,Ägyptsch
+de_AT,"Öösterrieksch Hoochdüütsch"
