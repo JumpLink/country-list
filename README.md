@@ -1,7 +1,7 @@
-Country List
+Country & Language List
 ============
 
-List of all countries with names and ISO 3166-1 codes in all languages and all data formats.
+List of all countries and languages with names and ISO 3166-1 codes in all languages and all data formats.
 
 Formats Available
 -----------------
@@ -24,7 +24,7 @@ Formats Available
 Multilingual
 ------------
 
-All formats are also available in multiple languages, please find full language list [here](https://github.com/umpirsky/country-list/tree/master/country/cldr).
+All formats are also available in multiple languages, please find full language list [here](https://github.com/staser/country-list/tree/master/country/cldr).
 
 Where Does the Data Come From?
 ------------------------------
@@ -39,7 +39,7 @@ So, if country list changes in the future, it will be very easy to update our co
 Build
 -----
 
-Country list is available out of the box, but if you want to submit patches, add new formats,
+Country & Language list is available out of the box, but if you want to submit patches, add new formats,
 update data source or contribute in any other way, you will probably want to rebuild the list:
 
 ```bash
