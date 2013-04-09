@@ -26,6 +26,15 @@ Multilingual
 
 All formats are also available in multiple languages, please find full language list [here](https://github.com/staser/country-list/tree/master/country/cldr).
 
+Where You Could Use this Data?
+------------------------------
+
+You could use this data freely in any project where you need to make language or country select.
+
+Please see PHP examples (in Russian language):
+* [Languages](https://github.com/staser/country-list/blob/master/country/cldr/ru/language.php)
+* [Countries](https://github.com/staser/country-list/blob/master/country/cldr/ru/country.php)
+
 Where Does the Data Come From?
 ------------------------------
 
@@ -46,3 +55,10 @@ update data source or contribute in any other way, you will probably want to reb
 $ composer install --dev
 $ console build
 ```
+
+Credits
+-----
+
+Original project and idea was founded by [Saša Stamenković](https://github.com/umpirsky)
+
+I just have added language list to the project, feel free to comment and submit your requests.
